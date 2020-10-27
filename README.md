@@ -28,18 +28,18 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.mavaddat.dev">
-    <img src="https://badges.mavaddat.dev/visits/mavaddat/mavaddat?style=flat-square&color=black&logo=github">
+    <img src="https://img.shields.io/badge/visits/mavaddat/mavaddat?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.mavaddat.dev">
-    <img src="https://badges.mavaddat.dev/years/mavaddat?style=flat-square&color=black&logo=github">
+    <img src="https://img.shields.io/badge/years/mavaddat?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.mavaddat.dev">
-    <img src="https://badges.mavaddat.dev/repos/mavaddat?style=flat-square&color=black&logo=github">
+    <img src="https://img.shields.io/badge/repos/mavaddat?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.mavaddat.dev">
-    <img src="https://badges.mavaddat.dev/gists/mavaddat?style=flat-square&color=black&logo=github">
+    <img src="https://img.shields.io/badge/gists/mavaddat?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.mavaddat.dev">
-    <img src="https://badges.mavaddat.dev/commits/monthly/mavaddat?style=flat-square&color=black&logo=github">
+    <img src="https://img.shields.io/badge/commits/monthly/mavaddat?style=flat-square&color=black&logo=github">
   </a>
 </p>
