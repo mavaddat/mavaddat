@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
   </a> 
   &emsp;
-  <a href="https://dev.to/mavaddat">
+  <a href="https://www.mavaddat.ca">
     <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px"/>
   </a>
   &emsp;
