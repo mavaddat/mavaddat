@@ -32,7 +32,7 @@
   </a>
   <a href="https://security.stackexchange.com/users/32048/mavaddat-javid">
     <img src="https://img.shields.io/stackexchange/security/r/32048">
-  </a>
+  </a><!-- start broken imgs 
   <a href="https://dev.to/mavaddat">
     <img src="https://img.shields.io/badge/visits/mavaddat/mavaddat?style=flat-square&color=black&logo=github&a=0">
   </a>
@@ -48,4 +48,5 @@
   <a href="https://dev.to/mavaddat">
     <img src="https://img.shields.io/badge/commits/monthly/mavaddat?style=flat-square&color=black&logo=github&a=0">
   </a>
+   end broken imgs --!>
 </p>
