@@ -48,5 +48,5 @@
   <a href="https://dev.to/mavaddat">
     <img src="https://img.shields.io/badge/commits/monthly/mavaddat?style=flat-square&color=black&logo=github&a=0">
   </a>
-   end broken imgs --!>
+   end broken imgs -->
 </p>
