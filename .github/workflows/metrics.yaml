@@ -20,6 +20,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Vancouver
+          repositories_forks: yes
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
