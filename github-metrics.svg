@@ -3375,7 +3375,7 @@ I cannot upgrade my pip, since I did not use the correct <code>--with-openssl</c
                 </section>
                 <footer>
                     <span>These metrics do not include all private contributions</span>
-                    <span>Last updated 9 Nov 2021, 18:08:26 (timezone America/Vancouver) with lowlighter/metrics@3.15.0</span>
+                    <span>Last updated 9 Nov 2021, 19:19:35 (timezone America/Vancouver) with lowlighter/metrics@3.15.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
