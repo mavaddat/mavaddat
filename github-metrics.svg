@@ -512,8 +512,8 @@
                             <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
                             <div class="label" title="C is a general purpose programming language that first appeared in 1972.">c</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
-                            <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
+                            <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
                             <div class="label" title="A bot is an application that runs automated tasks over the Internet.">bot</div>
                             <div class="label" title="The terminal is an interface in which you can type and execute text-based commands.">terminal</div>
@@ -2165,7 +2165,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jan 2022, 13:16:32 (timezone America/Vancouver) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 9 Jan 2022, 14:18:44 (timezone America/Vancouver) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
