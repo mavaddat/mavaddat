@@ -1589,7 +1589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>validatorgs/validator.gs</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">String validation for Google Apps Script projects.</div>
@@ -1642,7 +1642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>googlecodelabs/tools</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Codelabs management &amp; hosting tools</div>
@@ -2179,7 +2179,7 @@ Make the archiving step conditional. This is useful for re-running the script.</
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jan 2022, 04:28:35 (timezone America/Vancouver) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 19 Jan 2022, 05:20:27 (timezone America/Vancouver) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
