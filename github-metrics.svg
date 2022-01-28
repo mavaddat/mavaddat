@@ -1568,7 +1568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GitCredentialManager/git-credential-manager</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.</div>
@@ -1621,7 +1621,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>useful-forks/useful-forks.github.io</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.</div>
@@ -1674,7 +1674,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arkane-systems/genie</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A quick way into a systemd "bottle" for WSL</div>
@@ -2163,7 +2163,7 @@ Based on the logo for a retro game hacking device by no-longer-existing company.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2022, 17:01:37 (timezone America/Vancouver) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 27 Jan 2022, 18:33:13 (timezone America/Vancouver) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
