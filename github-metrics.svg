@@ -1590,7 +1590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Aorimn/dislocker</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX</div>
@@ -1643,7 +1643,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jmcnevin/rubypants</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RubyPants: SmartyPants for Ruby</div>
@@ -2180,7 +2180,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Feb 2022, 07:23:28 (timezone America/Vancouver) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 1 Feb 2022, 08:33:19 (timezone America/Vancouver) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
