@@ -1599,7 +1599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>middleman/middleman</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hand-crafted frontend development</div>
@@ -1652,7 +1652,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stoplightio/elements</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.</div>
@@ -1705,7 +1705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrin9/RapiDoc</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RapiDoc - Custom-Element for OpenAPI Spec</div>
@@ -1758,7 +1758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Redocly/redoc</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📘  OpenAPI/Swagger-generated API Reference Documentation</div>
@@ -2194,7 +2194,7 @@ _Than_ is used in comparisons as a conjunction (as in "she is younger than I am"
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Feb 2022, 22:21:25 (timezone America/Vancouver) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 1 Feb 2022, 23:16:35 (timezone America/Vancouver) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
