@@ -1604,7 +1604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dahlbyk/posh-sshell</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell helpers for SSH (previously part of posh-git.)</div>
@@ -2216,7 +2216,7 @@ Except for Binary Ordered Compression, which requires relatively sophisticated z
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Feb 2022, 05:20:27 (timezone America/Vancouver) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 3 Feb 2022, 06:16:55 (timezone America/Vancouver) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
