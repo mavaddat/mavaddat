@@ -1576,7 +1576,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>httpie/http-prompt</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie</div>
@@ -1629,7 +1629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swagger-api/swagger-codegen</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.</div>
@@ -1682,7 +1682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>httpie/httpie</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie</div>
@@ -1735,7 +1735,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gencebay/httplive</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HTTP Request &amp; Response Service, Mock HTTP</div>
@@ -2154,7 +2154,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Feb 2022, 18:19:16 (timezone America/Vancouver) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 3 Feb 2022, 19:15:57 (timezone America/Vancouver) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
