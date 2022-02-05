@@ -1581,7 +1581,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>curl/curl</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features</div>
@@ -2195,7 +2195,7 @@ More info and automated migrator: https://sass-lang.com/d/slash-div
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Feb 2022, 12:15:17 (timezone America/Vancouver) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 5 Feb 2022, 13:13:46 (timezone America/Vancouver) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
