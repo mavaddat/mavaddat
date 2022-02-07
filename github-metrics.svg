@@ -1593,7 +1593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mermade/reslate</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Beautiful static documentation for your API</div>
@@ -1646,7 +1646,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mermade/widdershins</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenAPI / Swagger, AsyncAPI &amp; Semoasa definitions to (re)Slate compatible markdown</div>
@@ -1699,7 +1699,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gilbarbara/logos</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A huge collection of SVG logos</div>
@@ -1746,7 +1746,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fregante/ghatemplates</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Actions workflow templates for `$ ghat`</div>
@@ -2180,7 +2180,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Feb 2022, 08:32:26 (timezone America/Vancouver) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 7 Feb 2022, 09:23:08 (timezone America/Vancouver) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
