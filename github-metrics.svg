@@ -1576,7 +1576,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arve0/markdown-it-attrs</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Add classes, identifiers and attributes to your markdown with {} curly brackets, similar to pandoc's header attributes</div>
@@ -1629,7 +1629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ilikenwf/apt-fast</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.</div>
@@ -1682,7 +1682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>valeriangalliat/markdown-it-anchor</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Header anchors for markdown-it.</div>
@@ -1735,7 +1735,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simov/slugify</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Slugifies a string</div>
@@ -2182,7 +2182,7 @@ Failed to reload daemon: Connection reset by peer
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Feb 2022, 14:16:03 (timezone America/Vancouver) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 11 Feb 2022, 15:17:39 (timezone America/Vancouver) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
