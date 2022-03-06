@@ -1584,7 +1584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>koreader/koreader</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</div>
@@ -1637,7 +1637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LunarVim/LunarVim</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An IDE layer for Neovim with sane defaults. Completely free and community driven.</div>
@@ -1690,7 +1690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tauri-apps/tauri</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build smaller, faster, and more secure desktop applications with a web frontend.</div>
@@ -2177,7 +2177,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Mar 2022, 08:25:32 (timezone America/Vancouver) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 6 Mar 2022, 09:17:14 (timezone America/Vancouver) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
