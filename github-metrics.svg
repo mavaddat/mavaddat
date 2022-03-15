@@ -1600,7 +1600,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nhoizey/pack11ty</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An heavily opinionated Eleventy template project with Sass</div>
@@ -1706,7 +1706,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sharkdp/bat</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cat(1) clone with wings.</div>
@@ -2180,7 +2180,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Mar 2022, 10:19:50 (timezone America/Vancouver) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 15 Mar 2022, 11:28:19 (timezone America/Vancouver) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
