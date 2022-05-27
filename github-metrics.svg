@@ -1683,7 +1683,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adamsky/globe</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Interactive ASCII globe generator</div>
@@ -2178,7 +2178,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 May 2022, 21:36:01 (timezone America/Vancouver) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 26 May 2022, 22:24:13 (timezone America/Vancouver) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
