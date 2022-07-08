@@ -2263,7 +2263,7 @@ TypeError: 'NoneType' object is not iterable
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jul 2022, 21:49:13 (timezone America/Vancouver) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 7 Jul 2022, 22:26:18 (timezone America/Vancouver) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
