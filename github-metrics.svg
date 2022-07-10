@@ -1596,7 +1596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FasterXML/jackson</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Main Portal page for the Jackson project</div>
@@ -1637,7 +1637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>11ty/eleventy</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.</div>
@@ -2175,7 +2175,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jul 2022, 11:23:52 (timezone America/Vancouver) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 10 Jul 2022, 12:15:41 (timezone America/Vancouver) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
