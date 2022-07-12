@@ -1608,7 +1608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jessehouwing/WindowsFileHistoryCleaner</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple command line executable to turn a File History share back into a snapshot of files</div>
@@ -1655,7 +1655,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>airvzxf/cache-anything-new-action</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub actions: Cache anything new</div>
@@ -1708,7 +1708,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/pyright</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Static type checker for Python</div>
@@ -1761,7 +1761,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jahilldev/11tyby</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple 11ty setup using TypeScript, SASS, Preact with partial hydration, and other useful things. Aims to provide the DX of Gatsby, but using 11ty!</div>
@@ -2218,7 +2218,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jul 2022, 14:18:28 (timezone America/Vancouver) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Jul 2022, 15:19:40 (timezone America/Vancouver) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
