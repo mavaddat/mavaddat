@@ -1602,7 +1602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/winget-cli</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows Package Manager CLI (aka winget)</div>
@@ -2218,7 +2218,7 @@ IndexError: list index out of range
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2022, 01:27:06 (timezone America/Vancouver) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 2 Aug 2022, 02:19:32 (timezone America/Vancouver) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
