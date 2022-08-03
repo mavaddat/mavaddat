@@ -1607,7 +1607,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/winget-cli</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows Package Manager CLI (aka winget)</div>
@@ -1713,7 +1713,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TimothyYe/bing-wallpaper</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A RESTful API to fetch daily wallpaper from Bing.com</div>
@@ -2223,7 +2223,7 @@ IndexError: list index out of range
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2022, 20:59:19 (timezone America/Vancouver) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 2 Aug 2022, 22:12:34 (timezone America/Vancouver) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
