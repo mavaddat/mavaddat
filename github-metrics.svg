@@ -1633,7 +1633,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/winget-cli</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows Package Manager CLI (aka winget)</div>
@@ -1739,7 +1739,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TimothyYe/bing-wallpaper</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A RESTful API to fetch daily wallpaper from Bing.com</div>
@@ -2159,7 +2159,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Aug 2022, 21:28:40 (timezone America/Vancouver) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Aug 2022, 22:18:07 (timezone America/Vancouver) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
