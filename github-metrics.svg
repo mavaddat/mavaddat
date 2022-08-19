@@ -1575,7 +1575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mdgrs-mei/PoshTaskbarItem</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PowerShell module that helps you make a simple UI for your script on the Windows taskbar.</div>
@@ -1734,7 +1734,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bonigarcia/selenium-webdriver-java</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Examples of the O'Reilly book "Hands-On Selenium WebDriver with Java"</div>
@@ -2156,7 +2156,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Aug 2022, 10:27:24 (timezone America/Vancouver) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 11:28:27 (timezone America/Vancouver) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
