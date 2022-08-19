@@ -1575,7 +1575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mdgrs-mei/PoshTaskbarItem</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PowerShell module that helps you make a simple UI for your script on the Windows taskbar.</div>
@@ -2156,7 +2156,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Aug 2022, 06:41:47 (timezone America/Vancouver) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 07:19:31 (timezone America/Vancouver) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
