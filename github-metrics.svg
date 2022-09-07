@@ -1608,7 +1608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x-motemen/gore</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.</div>
@@ -1661,7 +1661,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>niklasf/python-chess</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication</div>
@@ -2195,7 +2195,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Sept 2022, 13:26:27 (timezone America/Vancouver) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 7 Sept 2022, 14:20:00 (timezone America/Vancouver) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
