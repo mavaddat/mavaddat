@@ -1580,7 +1580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x-motemen/gore</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.</div>
@@ -1686,7 +1686,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GMKornilov/chess-puzzle-book-backend</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2167,7 +2167,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Sept 2022, 12:17:36 (timezone America/Vancouver) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 10 Sept 2022, 13:22:40 (timezone America/Vancouver) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
