@@ -1594,7 +1594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CorentinJ/Real-Time-Voice-Cloning</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Clone a voice in 5 seconds to generate arbitrary speech in real-time</div>
@@ -2213,7 +2213,7 @@ Fix missing contributors in GH Actions runs #1040</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Sept 2022, 14:19:57 (timezone America/Vancouver) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Sept 2022, 15:21:58 (timezone America/Vancouver) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
