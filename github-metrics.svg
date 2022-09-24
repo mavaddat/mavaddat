@@ -1589,7 +1589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itext/itext7-dotnet</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">iText 7 for .NET is the .NET version of the iText 7 library, formerly known as iTextSharp, which it replaces. iText 7 represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText 7 can be a boon to nearly every workflow.</div>
@@ -2197,7 +2197,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Sept 2022, 09:29:43 (timezone America/Vancouver) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 24 Sept 2022, 10:24:58 (timezone America/Vancouver) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
