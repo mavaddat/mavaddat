@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2800" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2452" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1013 Commits
+                            1015 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            190 issue comments
+                            191 issue comments
                         </div>
                     </section>
                     <section>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    117k added, 17.9k removed
+                                    1.51m added, 1.06m removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.48k views in last two weeks
+                                    1.47k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -512,12 +512,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 17 commits)</small>
+                    <small class="h-details">(computed from last 20 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 59.7 characters per line of code written</li>
+                        <li>Has approximately 61.9 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -2063,7 +2063,45 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by mavaddat in <span class="repo">microsoft/vscode-docs</span></div>
-                                    <div class="comment">@gregvanl @lramos15 Can I request a review of this PR?</div>
+                                    <div class="comment">
+                                        The table I added looks like this:
+
+
+
+Action
+Explanation
+
+
+
+Continue / Pause
+                                        <code>kb(workbench.action.debug.continue)</code>
+                                        Either  Continue: Resume normal program/script execution (up to the next breakpoint), or  Pause: Inspect code executing at the current line and debug line-by-line
+
+
+Step Over
+                                        <code>kb(workbench.action.debug.stepOver)</code>
+                                        Execute the next method as a single command without inspecting or following its component steps
+
+
+Step Into
+                                        <code>kb(workbench.action.debug.stepInto)</code>
+                                        Enter the next method to follow its execution line-by-line
+
+
+Step Out
+                                        <code>kb(workbench.action.debug.stepOut)</code>
+                                        When inside a method or subroutine, return to the earlier execution context by completing remaining lines of the current method as though it were a single command
+
+
+Restart
+                                        <code>kb(workbench.action.debug.restart)</code>
+                                        Terminate the current program execution and start debugging again using the current run configuration
+
+
+Stop
+                                        <code>kb(workbench.action.debug.stop)</code>
+                                        Terminate the current program execution
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2074,15 +2112,31 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 20 commits in
+                                        Pushed 8 commits in
                                         <span class="repo">mavaddat/vscode-docs</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">patch-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0771f1a</div>
-                                        <div class="message">Merge branch 'main' into patch-1</div>
+                                        <div class="sha">#c5a9c93</div>
+                                        <div class="message">Merge branch 'microsoft:main' into patch-1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/bundler/rubocop-minitest-0.23.0</span>
+                                        in
+                                        <span class="repo">nhoizey/jekyll-cloudinary</span>
                                     </div>
                                 </div>
                             </section>
@@ -2094,15 +2148,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">nhoizey/jekyll-cloudinary</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d0f12c7</div>
-                                        <div class="message">v2</div>
+                                        <div class="sha">#4d90dcd</div>
+                                        <div class="message">Merge pull request #123 from nhoizey/dependabot/bundler/rubocop-minitest-0.23.0
+
+Bump rubocop-minitest from 0.22.2 to 0.23.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69cb38d</div>
+                                        <div class="message">Bump rubocop-minitest from 0.22.2 to 0.23.0
+
+Bumps [rubocop-minitest](https://github.com/rubocop/rubocop-minitest) from 0.22.2 to 0.23.0.
+- [Release notes](https://github.com/rubocop/rubocop-minitest/releases)
+- [Changelog](https://github.com/rubocop/rubocop-minitest/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rubocop/rubocop-minitest/compare/v0.22.2...v0.23.0)
+
+---
+updated-dependencies:
+- dependency-name: rubocop-minitest
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -2111,118 +2185,15 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 84 commits in
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/bundler/rubocop-1.38.0</span>
+                                        in
                                         <span class="repo">nhoizey/jekyll-cloudinary</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#48373e2</div>
-                                        <div class="message">Replace `runner.os` with `matrix.os`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8550f1e</div>
-                                        <div class="message">Update Gemfile
-
-Modelled off of [rails/rubocop.yml](https://github.com/rails/rails/commits/v7.0.0.alpha2/.github/workflows/rubocop.yml)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6db10fa</div>
-                                        <div class="message">Update and rename main.yml to rubocop.yml
-
-Modelled off of [with matrix ruby and os](https://github.com/rails/rails/commits/v7.0.0.alpha2/.github/workflows/rubocop.yml)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27f6d9a</div>
-                                        <div class="message">Rails technique
-
-[.github/workflows/rubocop.yml](https://github.com/rails/rails/blob/4a78dcb326e57b5035c4df322e31875bfa74ae23/.github/workflows/rubocop.yml#L1)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39cc281</div>
-                                        <div class="message">Merge branch 'main' of github.com:mavaddat/jekyll-cloudinary</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8262e6f</div>
-                                        <div class="message">add jekyll to the gems</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f78e32</div>
-                                        <div class="message">remove jekyll site build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#322bcd1</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c3e83f</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f6ccc8</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#287974f</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1eead2b</div>
-                                        <div class="message">Update .rubocop.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44162b1</div>
-                                        <div class="message">Update .rubocop.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da954e2</div>
-                                        <div class="message">rubo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84475be</div>
-                                        <div class="message">[Test] gpg4win</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3dbc5bf</div>
-                                        <div class="message">[Test] gpg4win</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11af5f3</div>
-                                        <div class="message">update gem</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c54df56</div>
-                                        <div class="message">Update _config.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5da76a0</div>
-                                        <div class="message">Create main.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff43370</div>
-                                        <div class="message">Create codeql-analysis.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#122 Update Jekyll</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">nhoizey/jekyll-cloudinary</span></div>
-                                    <div>24 files changed <span class="code">++721 --94</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2234,7 +2205,7 @@ Modelled off of [with matrix ruby and os](https://github.com/rails/rails/commits
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"/>
                     </svg>
-                    Overall users reactions from last 280 comments
+                    Overall users reactions from last 281 comments
                 </h2>
                 <div class="row">
                     <section>
@@ -2298,7 +2269,7 @@ Modelled off of [with matrix ruby and os](https://github.com/rails/rails/commits
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Nov 2022, 06:54:35 (timezone America/Vancouver) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 2 Nov 2022, 07:27:19 (timezone America/Vancouver) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
