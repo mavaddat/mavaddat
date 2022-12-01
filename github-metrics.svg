@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    322k added, 5.56k removed
+                                    720k added, 312k removed
                                 </div>
                             </section>
                             <section>
@@ -1128,7 +1128,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aruljohn/popular-baby-names</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">1, 000 most popular names for baby boys and girls in CSV and JSON formats. Generator written in Python.</div>
@@ -2916,7 +2916,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
                             </svg>
-                            Minecxt (2244 ELO)
+                            FGMuller (2183 ELO)
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2936,7 +2936,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M4.243 4.757a3.757 3.757 0 115.851 3.119 6.006 6.006 0 013.9 5.339.75.75 0 01-.715.784H2.721a.75.75 0 01-.714-.784 6.006 6.006 0 013.9-5.34 3.753 3.753 0 01-1.664-3.118z"/>
                             </svg>
-                            mavaddat (2244 ELO)
+                            mavaddat (2267 ELO)
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3124,13 +3124,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                         <div class="init" style="left: 280px; top: 280px;">♖</div>
                     </div>
                     <div class="chess-move chess-move-0">
-                        <div class="from" style="left: 160px; top: 240px;">♙</div>
-                        <div class="to" style="left: 160px; top: 240px;">♙</div>
+                        <div class="from" style="left: 120px; top: 240px;">♙</div>
+                        <div class="to" style="left: 120px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-0-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-0 .from {
@@ -3147,8 +3147,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
+                      background-color: #C5A076;
+                      left: 120px;
                       top: 160px;
                     }
                   }
@@ -3192,8 +3192,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-2">
-                        <div class="from" style="left: 40px; top: 280px;">♘</div>
-                        <div class="to" style="left: 40px; top: 280px;">♘</div>
+                        <div class="from" style="left: 80px; top: 240px;">♙</div>
+                        <div class="to" style="left: 80px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-2-from {
                     100% {
                       opacity: 1;
@@ -3215,9 +3215,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                       left: 80px;
-                      top: 200px;
+                      top: 160px;
                     }
                   }
                   .chess-move-2 .to {
@@ -3226,13 +3226,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-3">
-                        <div class="from" style="left: 120px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 120px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 80px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 80px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-3-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-3 .from {
@@ -3249,8 +3249,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 120px;
+                      background-color: #C5A076;
+                      left: 80px;
                       top: 120px;
                     }
                   }
@@ -3260,13 +3260,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-4">
-                        <div class="from" style="left: 120px; top: 240px;">♙</div>
-                        <div class="to" style="left: 120px; top: 240px;">♙</div>
+                        <div class="from" style="left: 160px; top: 240px;">♙</div>
+                        <div class="to" style="left: 160px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-4-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-4 .from {
@@ -3284,8 +3284,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 120px;
-                      top: 160px;
+                      left: 160px;
+                      top: 200px;
                     }
                   }
                   .chess-move-4 .to {
@@ -3294,13 +3294,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-5">
-                        <div class="from" style="left: 240px; top: 0px;">♞</div>
-                        <div class="to" style="left: 240px; top: 0px;">♞</div>
+                        <div class="from" style="left: 80px; top: 120px;">♟︎</div>
+                        <div class="to" style="left: 80px; top: 120px;">♟︎</div>
                         <style>@keyframes chess-move-5-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-5 .from {
@@ -3318,8 +3318,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 200px;
-                      top: 80px;
+                      left: 120px;
+                      top: 160px;
                     }
                   }
                   .chess-move-5 .to {
@@ -3328,13 +3328,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-6">
-                        <div class="from" style="left: 160px; top: 160px;">♙</div>
-                        <div class="to" style="left: 160px; top: 160px;">♙</div>
+                        <div class="from" style="left: 160px; top: 200px;">♙</div>
+                        <div class="to" style="left: 160px; top: 200px;">♙</div>
                         <style>@keyframes chess-move-6-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-6 .from {
@@ -3351,9 +3351,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                       left: 120px;
-                      top: 120px;
+                      top: 160px;
                     }
                   }
                   .chess-move-6 .to {
@@ -3362,13 +3362,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-7">
-                        <div class="from" style="left: 200px; top: 80px;">♞</div>
-                        <div class="to" style="left: 200px; top: 80px;">♞</div>
+                        <div class="from" style="left: 120px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 120px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-7-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-7 .from {
@@ -3396,8 +3396,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-8">
-                        <div class="from" style="left: 80px; top: 200px;">♘</div>
-                        <div class="to" style="left: 80px; top: 200px;">♘</div>
+                        <div class="from" style="left: 240px; top: 280px;">♘</div>
+                        <div class="to" style="left: 240px; top: 280px;">♘</div>
                         <style>@keyframes chess-move-8-from {
                     100% {
                       opacity: 1;
@@ -3420,8 +3420,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 120px;
-                      top: 120px;
+                      left: 200px;
+                      top: 200px;
                     }
                   }
                   .chess-move-8 .to {
@@ -3430,13 +3430,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-9">
-                        <div class="from" style="left: 120px; top: 0px;">♛</div>
-                        <div class="to" style="left: 120px; top: 0px;">♛</div>
+                        <div class="from" style="left: 120px; top: 120px;">♟︎</div>
+                        <div class="to" style="left: 120px; top: 120px;">♟︎</div>
                         <style>@keyframes chess-move-9-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-9 .from {
@@ -3454,8 +3454,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 120px;
-                      top: 120px;
+                      left: 80px;
+                      top: 160px;
                     }
                   }
                   .chess-move-9 .to {
@@ -3464,13 +3464,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-10">
-                        <div class="from" style="left: 80px; top: 280px;">♗</div>
-                        <div class="to" style="left: 80px; top: 280px;">♗</div>
+                        <div class="from" style="left: 200px; top: 280px;">♗</div>
+                        <div class="to" style="left: 200px; top: 280px;">♗</div>
                         <style>@keyframes chess-move-10-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-10 .from {
@@ -3487,9 +3487,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 200px;
+                      background-color: #ECDAB9;
+                      left: 80px;
+                      top: 160px;
                     }
                   }
                   .chess-move-10 .to {
@@ -3498,8 +3498,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-11">
-                        <div class="from" style="left: 40px; top: 0px;">♞</div>
-                        <div class="to" style="left: 40px; top: 0px;">♞</div>
+                        <div class="from" style="left: 120px; top: 0px;">♛</div>
+                        <div class="to" style="left: 120px; top: 0px;">♛</div>
                         <style>@keyframes chess-move-11-from {
                     100% {
                       opacity: 1;
@@ -3521,9 +3521,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                       left: 80px;
-                      top: 80px;
+                      top: 40px;
                     }
                   }
                   .chess-move-11 .to {
@@ -3532,8 +3532,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-12">
-                        <div class="from" style="left: 120px; top: 280px;">♕</div>
-                        <div class="to" style="left: 120px; top: 280px;">♕</div>
+                        <div class="from" style="left: 80px; top: 160px;">♗</div>
+                        <div class="to" style="left: 80px; top: 160px;">♗</div>
                         <style>@keyframes chess-move-12-from {
                     100% {
                       opacity: 1;
@@ -3555,9 +3555,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 240px;
+                      background-color: #ECDAB9;
+                      left: 40px;
+                      top: 200px;
                     }
                   }
                   .chess-move-12 .to {
@@ -3566,13 +3566,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-13">
-                        <div class="from" style="left: 200px; top: 0px;">♝</div>
-                        <div class="to" style="left: 200px; top: 0px;">♝</div>
+                        <div class="from" style="left: 240px; top: 0px;">♞</div>
+                        <div class="to" style="left: 240px; top: 0px;">♞</div>
                         <style>@keyframes chess-move-13-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-13 .from {
@@ -3590,8 +3590,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 160px;
-                      top: 40px;
+                      left: 200px;
+                      top: 80px;
                     }
                   }
                   .chess-move-13 .to {
@@ -3600,8 +3600,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-14">
-                        <div class="from" style="left: 40px; top: 240px;">♙</div>
-                        <div class="to" style="left: 40px; top: 240px;">♙</div>
+                        <div class="from" style="left: 160px; top: 280px;">♔</div>
+                        <div class="to" style="left: 160px; top: 280px;">♔</div>
                         <style>@keyframes chess-move-14-from {
                     100% {
                       opacity: 1;
@@ -3623,9 +3623,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 40px;
-                      top: 200px;
+                      background-color: #C5A076;
+                      left: 240px;
+                      top: 280px;
                     }
                   }
                   .chess-move-14 .to {
@@ -3634,13 +3634,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-15">
-                        <div class="from" style="left: 160px; top: 0px;">♚</div>
-                        <div class="to" style="left: 160px; top: 0px;">♚</div>
+                        <div class="from" style="left: 200px; top: 0px;">♝</div>
+                        <div class="to" style="left: 200px; top: 0px;">♝</div>
                         <style>@keyframes chess-move-15-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-15 .from {
@@ -3657,9 +3657,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 240px;
-                      top: 0px;
+                      background-color: #C5A076;
+                      left: 160px;
+                      top: 40px;
                     }
                   }
                   .chess-move-15 .to {
@@ -3668,13 +3668,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-16">
-                        <div class="from" style="left: 80px; top: 240px;">♙</div>
-                        <div class="to" style="left: 80px; top: 240px;">♙</div>
+                        <div class="from" style="left: 80px; top: 280px;">♗</div>
+                        <div class="to" style="left: 80px; top: 280px;">♗</div>
                         <style>@keyframes chess-move-16-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-16 .from {
@@ -3691,9 +3691,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 80px;
-                      top: 160px;
+                      background-color: #C5A076;
+                      left: 160px;
+                      top: 200px;
                     }
                   }
                   .chess-move-16 .to {
@@ -3702,8 +3702,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-17">
-                        <div class="from" style="left: 120px; top: 120px;">♛</div>
-                        <div class="to" style="left: 120px; top: 120px;">♛</div>
+                        <div class="from" style="left: 160px; top: 0px;">♚</div>
+                        <div class="to" style="left: 160px; top: 0px;">♚</div>
                         <style>@keyframes chess-move-17-from {
                     100% {
                       opacity: 1;
@@ -3725,8 +3725,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
+                      background-color: #ECDAB9;
+                      left: 240px;
                       top: 0px;
                     }
                   }
@@ -3736,13 +3736,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-18">
-                        <div class="from" style="left: 240px; top: 280px;">♘</div>
-                        <div class="to" style="left: 240px; top: 280px;">♘</div>
+                        <div class="from" style="left: 40px; top: 280px;">♘</div>
+                        <div class="to" style="left: 40px; top: 280px;">♘</div>
                         <style>@keyframes chess-move-18-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-18 .from {
@@ -3759,9 +3759,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 200px;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 240px;
                     }
                   }
                   .chess-move-18 .to {
@@ -3770,8 +3770,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-19">
-                        <div class="from" style="left: 160px; top: 40px;">♝</div>
-                        <div class="to" style="left: 160px; top: 40px;">♝</div>
+                        <div class="from" style="left: 200px; top: 0px;">♜</div>
+                        <div class="to" style="left: 200px; top: 0px;">♜</div>
                         <style>@keyframes chess-move-19-from {
                     100% {
                       opacity: 1;
@@ -3794,8 +3794,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 40px;
-                      top: 160px;
+                      left: 120px;
+                      top: 0px;
                     }
                   }
                   .chess-move-19 .to {
@@ -3804,13 +3804,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-20">
-                        <div class="from" style="left: 200px; top: 280px;">♗</div>
-                        <div class="to" style="left: 200px; top: 280px;">♗</div>
+                        <div class="from" style="left: 0px; top: 280px;">♖</div>
+                        <div class="to" style="left: 0px; top: 280px;">♖</div>
                         <style>@keyframes chess-move-20-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-20 .from {
@@ -3827,9 +3827,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 240px;
+                      background-color: #C5A076;
+                      left: 80px;
+                      top: 280px;
                     }
                   }
                   .chess-move-20 .to {
@@ -3838,13 +3838,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-21">
-                        <div class="from" style="left: 40px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 40px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 80px; top: 40px;">♛</div>
+                        <div class="to" style="left: 80px; top: 40px;">♛</div>
                         <style>@keyframes chess-move-21-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-21 .from {
@@ -3872,8 +3872,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-22">
-                        <div class="from" style="left: 120px; top: 160px;">♙</div>
-                        <div class="to" style="left: 120px; top: 160px;">♙</div>
+                        <div class="from" style="left: 280px; top: 240px;">♙</div>
+                        <div class="to" style="left: 280px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-22-from {
                     100% {
                       opacity: 1;
@@ -3896,8 +3896,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 120px;
-                      top: 120px;
+                      left: 280px;
+                      top: 200px;
                     }
                   }
                   .chess-move-22 .to {
@@ -3906,13 +3906,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-23">
-                        <div class="from" style="left: 160px; top: 80px;">♟︎</div>
-                        <div class="to" style="left: 160px; top: 80px;">♟︎</div>
+                        <div class="from" style="left: 40px; top: 0px;">♞</div>
+                        <div class="to" style="left: 40px; top: 0px;">♞</div>
                         <style>@keyframes chess-move-23-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-23 .from {
@@ -3930,8 +3930,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 120px;
-                      top: 120px;
+                      left: 80px;
+                      top: 80px;
                     }
                   }
                   .chess-move-23 .to {
@@ -3940,13 +3940,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-24">
-                        <div class="from" style="left: 80px; top: 160px;">♙</div>
-                        <div class="to" style="left: 80px; top: 160px;">♙</div>
+                        <div class="from" style="left: 120px; top: 240px;">♘</div>
+                        <div class="to" style="left: 120px; top: 240px;">♘</div>
                         <style>@keyframes chess-move-24-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-24 .from {
@@ -3964,8 +3964,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 120px;
-                      top: 120px;
+                      left: 80px;
+                      top: 160px;
                     }
                   }
                   .chess-move-24 .to {
@@ -3974,8 +3974,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-25">
-                        <div class="from" style="left: 120px; top: 0px;">♛</div>
-                        <div class="to" style="left: 120px; top: 0px;">♛</div>
+                        <div class="from" style="left: 40px; top: 80px;">♛</div>
+                        <div class="to" style="left: 40px; top: 80px;">♛</div>
                         <style>@keyframes chess-move-25-from {
                     100% {
                       opacity: 1;
@@ -3998,7 +3998,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 120px;
+                      left: 40px;
                       top: 120px;
                     }
                   }
@@ -4008,8 +4008,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-26">
-                        <div class="from" style="left: 160px; top: 240px;">♗</div>
-                        <div class="to" style="left: 160px; top: 240px;">♗</div>
+                        <div class="from" style="left: 80px; top: 160px;">♘</div>
+                        <div class="to" style="left: 80px; top: 160px;">♘</div>
                         <style>@keyframes chess-move-26-from {
                     100% {
                       opacity: 1;
@@ -4031,9 +4031,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 80px;
-                      top: 160px;
+                      background-color: #C5A076;
+                      left: 160px;
+                      top: 120px;
                     }
                   }
                   .chess-move-26 .to {
@@ -4042,13 +4042,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-27">
-                        <div class="from" style="left: 40px; top: 160px;">♝</div>
-                        <div class="to" style="left: 40px; top: 160px;">♝</div>
+                        <div class="from" style="left: 80px; top: 80px;">♞</div>
+                        <div class="to" style="left: 80px; top: 80px;">♞</div>
                         <style>@keyframes chess-move-27-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-27 .from {
@@ -4066,8 +4066,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 120px;
-                      top: 240px;
+                      left: 160px;
+                      top: 120px;
                     }
                   }
                   .chess-move-27 .to {
@@ -4100,8 +4100,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 120px;
-                      top: 240px;
+                      left: 160px;
+                      top: 120px;
                     }
                   }
                   .chess-move-28 .to {
@@ -4110,8 +4110,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-29">
-                        <div class="from" style="left: 120px; top: 120px;">♛</div>
-                        <div class="to" style="left: 120px; top: 120px;">♛</div>
+                        <div class="from" style="left: 80px; top: 0px;">♝</div>
+                        <div class="to" style="left: 80px; top: 0px;">♝</div>
                         <style>@keyframes chess-move-29-from {
                     100% {
                       opacity: 1;
@@ -4133,9 +4133,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 120px;
+                      background-color: #ECDAB9;
+                      left: 120px;
+                      top: 40px;
                     }
                   }
                   .chess-move-29 .to {
@@ -4144,13 +4144,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-30">
-                        <div class="from" style="left: 160px; top: 280px;">♔</div>
-                        <div class="to" style="left: 160px; top: 280px;">♔</div>
+                        <div class="from" style="left: 40px; top: 200px;">♗</div>
+                        <div class="to" style="left: 40px; top: 200px;">♗</div>
                         <style>@keyframes chess-move-30-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-30 .from {
@@ -4167,9 +4167,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 240px;
-                      top: 280px;
+                      background-color: #ECDAB9;
+                      left: 80px;
+                      top: 160px;
                     }
                   }
                   .chess-move-30 .to {
@@ -4178,8 +4178,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-31">
-                        <div class="from" style="left: 80px; top: 0px;">♝</div>
-                        <div class="to" style="left: 80px; top: 0px;">♝</div>
+                        <div class="from" style="left: 40px; top: 120px;">♛</div>
+                        <div class="to" style="left: 40px; top: 120px;">♛</div>
                         <style>@keyframes chess-move-31-from {
                     100% {
                       opacity: 1;
@@ -4201,9 +4201,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 40px;
-                      top: 40px;
+                      background-color: #C5A076;
+                      left: 0px;
+                      top: 120px;
                     }
                   }
                   .chess-move-31 .to {
@@ -4212,8 +4212,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-32">
-                        <div class="from" style="left: 120px; top: 240px;">♘</div>
-                        <div class="to" style="left: 120px; top: 240px;">♘</div>
+                        <div class="from" style="left: 160px; top: 200px;">♗</div>
+                        <div class="to" style="left: 160px; top: 200px;">♗</div>
                         <style>@keyframes chess-move-32-from {
                     100% {
                       opacity: 1;
@@ -4235,9 +4235,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 200px;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 240px;
                     }
                   }
                   .chess-move-32 .to {
@@ -4246,8 +4246,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-33">
-                        <div class="from" style="left: 160px; top: 120px;">♛</div>
-                        <div class="to" style="left: 160px; top: 120px;">♛</div>
+                        <div class="from" style="left: 0px; top: 120px;">♛</div>
+                        <div class="to" style="left: 0px; top: 120px;">♛</div>
                         <style>@keyframes chess-move-33-from {
                     100% {
                       opacity: 1;
@@ -4269,9 +4269,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 280px;
-                      top: 120px;
+                      background-color: #C5A076;
+                      left: 40px;
+                      top: 80px;
                     }
                   }
                   .chess-move-33 .to {
@@ -4280,13 +4280,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-34">
-                        <div class="from" style="left: 80px; top: 160px;">♗</div>
-                        <div class="to" style="left: 80px; top: 160px;">♗</div>
+                        <div class="from" style="left: 120px; top: 240px;">♗</div>
+                        <div class="to" style="left: 120px; top: 240px;">♗</div>
                         <style>@keyframes chess-move-34-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-34 .from {
@@ -4303,9 +4303,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 240px;
+                      background-color: #C5A076;
+                      left: 80px;
+                      top: 200px;
                     }
                   }
                   .chess-move-34 .to {
@@ -4314,8 +4314,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-35">
-                        <div class="from" style="left: 0px; top: 0px;">♜</div>
-                        <div class="to" style="left: 0px; top: 0px;">♜</div>
+                        <div class="from" style="left: 120px; top: 40px;">♝</div>
+                        <div class="to" style="left: 120px; top: 40px;">♝</div>
                         <style>@keyframes chess-move-35-from {
                     100% {
                       opacity: 1;
@@ -4348,8 +4348,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-36">
-                        <div class="from" style="left: 200px; top: 200px;">♘</div>
-                        <div class="to" style="left: 200px; top: 200px;">♘</div>
+                        <div class="from" style="left: 120px; top: 280px;">♕</div>
+                        <div class="to" style="left: 120px; top: 280px;">♕</div>
                         <style>@keyframes chess-move-36-from {
                     100% {
                       opacity: 1;
@@ -4371,9 +4371,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 160px;
+                      background-color: #ECDAB9;
+                      left: 160px;
+                      top: 240px;
                     }
                   }
                   .chess-move-36 .to {
@@ -4382,8 +4382,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-37">
-                        <div class="from" style="left: 280px; top: 120px;">♛</div>
-                        <div class="to" style="left: 280px; top: 120px;">♛</div>
+                        <div class="from" style="left: 0px; top: 0px;">♜</div>
+                        <div class="to" style="left: 0px; top: 0px;">♜</div>
                         <style>@keyframes chess-move-37-from {
                     100% {
                       opacity: 1;
@@ -4405,9 +4405,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 280px;
-                      top: 160px;
+                      background-color: #ECDAB9;
+                      left: 80px;
+                      top: 0px;
                     }
                   }
                   .chess-move-37 .to {
@@ -4416,13 +4416,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-38">
-                        <div class="from" style="left: 120px; top: 160px;">♘</div>
-                        <div class="to" style="left: 120px; top: 160px;">♘</div>
+                        <div class="from" style="left: 160px; top: 240px;">♕</div>
+                        <div class="to" style="left: 160px; top: 240px;">♕</div>
                         <style>@keyframes chess-move-38-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-38 .from {
@@ -4439,9 +4439,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 200px;
+                      background-color: #C5A076;
+                      left: 160px;
+                      top: 280px;
                     }
                   }
                   .chess-move-38 .to {
@@ -4450,8 +4450,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-39">
-                        <div class="from" style="left: 280px; top: 160px;">♛</div>
-                        <div class="to" style="left: 280px; top: 160px;">♛</div>
+                        <div class="from" style="left: 200px; top: 80px;">♞</div>
+                        <div class="to" style="left: 200px; top: 80px;">♞</div>
                         <style>@keyframes chess-move-39-from {
                     100% {
                       opacity: 1;
@@ -4473,9 +4473,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
-                      top: 80px;
+                      background-color: #ECDAB9;
+                      left: 120px;
+                      top: 120px;
                     }
                   }
                   .chess-move-39 .to {
@@ -4484,13 +4484,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-40">
-                        <div class="from" style="left: 160px; top: 200px;">♗</div>
-                        <div class="to" style="left: 160px; top: 200px;">♗</div>
+                        <div class="from" style="left: 80px; top: 160px;">♗</div>
+                        <div class="to" style="left: 80px; top: 160px;">♗</div>
                         <style>@keyframes chess-move-40-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-40 .from {
@@ -4507,9 +4507,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                       left: 120px;
-                      top: 160px;
+                      top: 120px;
                     }
                   }
                   .chess-move-40 .to {
@@ -4518,13 +4518,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-41">
-                        <div class="from" style="left: 80px; top: 80px;">♞</div>
-                        <div class="to" style="left: 80px; top: 80px;">♞</div>
+                        <div class="from" style="left: 120px; top: 0px;">♜</div>
+                        <div class="to" style="left: 120px; top: 0px;">♜</div>
                         <style>@keyframes chess-move-41-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-41 .from {
@@ -4541,9 +4541,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                       left: 120px;
-                      top: 160px;
+                      top: 120px;
                     }
                   }
                   .chess-move-41 .to {
@@ -4552,13 +4552,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-42">
-                        <div class="from" style="left: 160px; top: 240px;">♗</div>
-                        <div class="to" style="left: 160px; top: 240px;">♗</div>
+                        <div class="from" style="left: 160px; top: 120px;">♘</div>
+                        <div class="to" style="left: 160px; top: 120px;">♘</div>
                         <style>@keyframes chess-move-42-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-42 .from {
@@ -4576,8 +4576,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 80px;
-                      top: 160px;
+                      left: 200px;
+                      top: 200px;
                     }
                   }
                   .chess-move-42 .to {
@@ -4586,13 +4586,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-43">
-                        <div class="from" style="left: 120px; top: 160px;">♞</div>
-                        <div class="to" style="left: 120px; top: 160px;">♞</div>
+                        <div class="from" style="left: 80px; top: 0px;">♜</div>
+                        <div class="to" style="left: 80px; top: 0px;">♜</div>
                         <style>@keyframes chess-move-43-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-43 .from {
@@ -4609,9 +4609,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 200px;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 0px;
                     }
                   }
                   .chess-move-43 .to {
@@ -4620,8 +4620,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-44">
-                        <div class="from" style="left: 240px; top: 240px;">♙</div>
-                        <div class="to" style="left: 240px; top: 240px;">♙</div>
+                        <div class="from" style="left: 0px; top: 240px;">♙</div>
+                        <div class="to" style="left: 0px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-44-from {
                     100% {
                       opacity: 1;
@@ -4643,8 +4643,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
+                      background-color: #C5A076;
+                      left: 0px;
                       top: 200px;
                     }
                   }
@@ -4654,8 +4654,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-45">
-                        <div class="from" style="left: 200px; top: 80px;">♛</div>
-                        <div class="to" style="left: 200px; top: 80px;">♛</div>
+                        <div class="from" style="left: 160px; top: 40px;">♝</div>
+                        <div class="to" style="left: 160px; top: 40px;">♝</div>
                         <style>@keyframes chess-move-45-from {
                     100% {
                       opacity: 1;
@@ -4677,9 +4677,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                       left: 200px;
-                      top: 200px;
+                      top: 80px;
                     }
                   }
                   .chess-move-45 .to {
@@ -4688,13 +4688,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-46">
-                        <div class="from" style="left: 80px; top: 160px;">♗</div>
-                        <div class="to" style="left: 80px; top: 160px;">♗</div>
+                        <div class="from" style="left: 80px; top: 280px;">♖</div>
+                        <div class="to" style="left: 80px; top: 280px;">♖</div>
                         <style>@keyframes chess-move-46-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-46 .from {
@@ -4713,7 +4713,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                       opacity: 1;
                       background-color: #ECDAB9;
                       left: 120px;
-                      top: 120px;
+                      top: 280px;
                     }
                   }
                   .chess-move-46 .to {
@@ -4722,8 +4722,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-47">
-                        <div class="from" style="left: 40px; top: 40px;">♝</div>
-                        <div class="to" style="left: 40px; top: 40px;">♝</div>
+                        <div class="from" style="left: 160px; top: 0px;">♝</div>
+                        <div class="to" style="left: 160px; top: 0px;">♝</div>
                         <style>@keyframes chess-move-47-from {
                     100% {
                       opacity: 1;
@@ -4746,7 +4746,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 120px;
+                      left: 40px;
                       top: 120px;
                     }
                   }
@@ -4756,13 +4756,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-48">
-                        <div class="from" style="left: 200px; top: 280px;">♖</div>
-                        <div class="to" style="left: 200px; top: 280px;">♖</div>
+                        <div class="from" style="left: 160px; top: 280px;">♕</div>
+                        <div class="to" style="left: 160px; top: 280px;">♕</div>
                         <style>@keyframes chess-move-48-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-48 .from {
@@ -4780,8 +4780,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 120px;
-                      top: 280px;
+                      left: 160px;
+                      top: 160px;
                     }
                   }
                   .chess-move-48 .to {
@@ -4790,8 +4790,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-49">
-                        <div class="from" style="left: 200px; top: 200px;">♛</div>
-                        <div class="to" style="left: 200px; top: 200px;">♛</div>
+                        <div class="from" style="left: 40px; top: 120px;">♝</div>
+                        <div class="to" style="left: 40px; top: 120px;">♝</div>
                         <style>@keyframes chess-move-49-from {
                     100% {
                       opacity: 1;
@@ -4814,13 +4814,285 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 240px;
-                      top: 240px;
+                      left: 200px;
+                      top: 280px;
                     }
                   }
                   .chess-move-49 .to {
                     animation-name: chess-move-49-to;
                     animation-delay: 32.4s;
+                  }</style>
+                    </div>
+                    <div class="chess-move chess-move-50">
+                        <div class="from" style="left: 120px; top: 280px;">♖</div>
+                        <div class="to" style="left: 120px; top: 280px;">♖</div>
+                        <style>@keyframes chess-move-50-from {
+                    100% {
+                      opacity: 1;
+                      color: transparent;
+                      background-color: #ECDAB9;
+                    }
+                  }
+                  .chess-move-50 .from {
+                    animation-name: chess-move-50-from;
+                    animation-delay: 33s;
+                  }
+
+                  @keyframes chess-move-50-to {
+                    1% {
+                      opacity: 1;
+                    }
+                    99% {
+                      background-color: transparent;
+                    }
+                    100% {
+                      opacity: 1;
+                      background-color: #ECDAB9;
+                      left: 200px;
+                      top: 280px;
+                    }
+                  }
+                  .chess-move-50 .to {
+                    animation-name: chess-move-50-to;
+                    animation-delay: 33s;
+                  }</style>
+                    </div>
+                    <div class="chess-move chess-move-51">
+                        <div class="from" style="left: 0px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 0px; top: 40px;">♟︎</div>
+                        <style>@keyframes chess-move-51-from {
+                    100% {
+                      opacity: 1;
+                      color: transparent;
+                      background-color: #C5A076;
+                    }
+                  }
+                  .chess-move-51 .from {
+                    animation-name: chess-move-51-from;
+                    animation-delay: 33.599999999999994s;
+                  }
+
+                  @keyframes chess-move-51-to {
+                    1% {
+                      opacity: 1;
+                    }
+                    99% {
+                      background-color: transparent;
+                    }
+                    100% {
+                      opacity: 1;
+                      background-color: #ECDAB9;
+                      left: 0px;
+                      top: 80px;
+                    }
+                  }
+                  .chess-move-51 .to {
+                    animation-name: chess-move-51-to;
+                    animation-delay: 33.599999999999994s;
+                  }</style>
+                    </div>
+                    <div class="chess-move chess-move-52">
+                        <div class="from" style="left: 200px; top: 200px;">♘</div>
+                        <div class="to" style="left: 200px; top: 200px;">♘</div>
+                        <style>@keyframes chess-move-52-from {
+                    100% {
+                      opacity: 1;
+                      color: transparent;
+                      background-color: #ECDAB9;
+                    }
+                  }
+                  .chess-move-52 .from {
+                    animation-name: chess-move-52-from;
+                    animation-delay: 34.2s;
+                  }
+
+                  @keyframes chess-move-52-to {
+                    1% {
+                      opacity: 1;
+                    }
+                    99% {
+                      background-color: transparent;
+                    }
+                    100% {
+                      opacity: 1;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 240px;
+                    }
+                  }
+                  .chess-move-52 .to {
+                    animation-name: chess-move-52-to;
+                    animation-delay: 34.2s;
+                  }</style>
+                    </div>
+                    <div class="chess-move chess-move-53">
+                        <div class="from" style="left: 200px; top: 80px;">♝</div>
+                        <div class="to" style="left: 200px; top: 80px;">♝</div>
+                        <style>@keyframes chess-move-53-from {
+                    100% {
+                      opacity: 1;
+                      color: transparent;
+                      background-color: #C5A076;
+                    }
+                  }
+                  .chess-move-53 .from {
+                    animation-name: chess-move-53-from;
+                    animation-delay: 34.8s;
+                  }
+
+                  @keyframes chess-move-53-to {
+                    1% {
+                      opacity: 1;
+                    }
+                    99% {
+                      background-color: transparent;
+                    }
+                    100% {
+                      opacity: 1;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 160px;
+                    }
+                  }
+                  .chess-move-53 .to {
+                    animation-name: chess-move-53-to;
+                    animation-delay: 34.8s;
+                  }</style>
+                    </div>
+                    <div class="chess-move chess-move-54">
+                        <div class="from" style="left: 80px; top: 200px;">♗</div>
+                        <div class="to" style="left: 80px; top: 200px;">♗</div>
+                        <style>@keyframes chess-move-54-from {
+                    100% {
+                      opacity: 1;
+                      color: transparent;
+                      background-color: #C5A076;
+                    }
+                  }
+                  .chess-move-54 .from {
+                    animation-name: chess-move-54-from;
+                    animation-delay: 35.4s;
+                  }
+
+                  @keyframes chess-move-54-to {
+                    1% {
+                      opacity: 1;
+                    }
+                    99% {
+                      background-color: transparent;
+                    }
+                    100% {
+                      opacity: 1;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 160px;
+                    }
+                  }
+                  .chess-move-54 .to {
+                    animation-name: chess-move-54-to;
+                    animation-delay: 35.4s;
+                  }</style>
+                    </div>
+                    <div class="chess-move chess-move-55">
+                        <div class="from" style="left: 120px; top: 120px;">♜</div>
+                        <div class="to" style="left: 120px; top: 120px;">♜</div>
+                        <style>@keyframes chess-move-55-from {
+                    100% {
+                      opacity: 1;
+                      color: transparent;
+                      background-color: #ECDAB9;
+                    }
+                  }
+                  .chess-move-55 .from {
+                    animation-name: chess-move-55-from;
+                    animation-delay: 36s;
+                  }
+
+                  @keyframes chess-move-55-to {
+                    1% {
+                      opacity: 1;
+                    }
+                    99% {
+                      background-color: transparent;
+                    }
+                    100% {
+                      opacity: 1;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 160px;
+                    }
+                  }
+                  .chess-move-55 .to {
+                    animation-name: chess-move-55-to;
+                    animation-delay: 36s;
+                  }</style>
+                    </div>
+                    <div class="chess-move chess-move-56">
+                        <div class="from" style="left: 160px; top: 160px;">♕</div>
+                        <div class="to" style="left: 160px; top: 160px;">♕</div>
+                        <style>@keyframes chess-move-56-from {
+                    100% {
+                      opacity: 1;
+                      color: transparent;
+                      background-color: #ECDAB9;
+                    }
+                  }
+                  .chess-move-56 .from {
+                    animation-name: chess-move-56-from;
+                    animation-delay: 36.6s;
+                  }
+
+                  @keyframes chess-move-56-to {
+                    1% {
+                      opacity: 1;
+                    }
+                    99% {
+                      background-color: transparent;
+                    }
+                    100% {
+                      opacity: 1;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 160px;
+                    }
+                  }
+                  .chess-move-56 .to {
+                    animation-name: chess-move-56-to;
+                    animation-delay: 36.6s;
+                  }</style>
+                    </div>
+                    <div class="chess-move chess-move-57">
+                        <div class="from" style="left: 120px; top: 0px;">♜</div>
+                        <div class="to" style="left: 120px; top: 0px;">♜</div>
+                        <style>@keyframes chess-move-57-from {
+                    100% {
+                      opacity: 1;
+                      color: transparent;
+                      background-color: #C5A076;
+                    }
+                  }
+                  .chess-move-57 .from {
+                    animation-name: chess-move-57-from;
+                    animation-delay: 37.199999999999996s;
+                  }
+
+                  @keyframes chess-move-57-to {
+                    1% {
+                      opacity: 1;
+                    }
+                    99% {
+                      background-color: transparent;
+                    }
+                    100% {
+                      opacity: 1;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 160px;
+                    }
+                  }
+                  .chess-move-57 .to {
+                    animation-name: chess-move-57-to;
+                    animation-delay: 37.199999999999996s;
                   }</style>
                     </div>
                     <style>.chess-board {
@@ -4854,7 +5126,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
               animation-fill-mode: forwards;
               animation-name: chess-clock;
               animation-delay: 3s;
-              animation-duration: 30s;
+              animation-duration: 34.8s;
               animation-timing-function: linear;
             }
             @keyframes chess-clock {
@@ -4889,7 +5161,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Nov 2022, 19:11:15 (timezone America/Vancouver) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 30 Nov 2022, 20:23:30 (timezone America/Vancouver) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
