@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 452 repositories
+                            Starred 453 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    659k added, 312k removed
+                                    728k added, 313k removed
                                 </div>
                             </section>
                             <section>
@@ -1147,6 +1147,59 @@
                                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="name">
+                                        <span>rsalmei/alive-progress</span>
+                                        <span>starred 1 hour ago</span>
+                                    </div>
+                                </div>
+                                <div class="field description">A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!</div>
+                                <div class="field infos">
+                                    <div class="language">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                        </svg>
+                                        Python
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
+                                        </svg>
+                                        MIT
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        </svg>
+                                        3.99k
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        </svg>
+                                        166
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        </svg>
+                                        166
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        </svg>
+                                        44
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width largeable-width-half">
+                            <section class="repository">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="name">
                                         <span>theirix/google-photo-dedup</span>
                                         <span>starred 3 days ago</span>
                                     </div>
@@ -1222,7 +1275,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        319
+                                        320
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1289,53 +1342,6 @@
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
                                         304
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width largeable-width-half">
-                            <section class="repository">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="name">
-                                        <span>aruljohn/popular-baby-names</span>
-                                        <span>starred 16 days ago</span>
-                                    </div>
-                                </div>
-                                <div class="field description">1, 000 most popular names for baby boys and girls in CSV and JSON formats. Generator written in Python.</div>
-                                <div class="field infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
-                                        </svg>
-                                        MIT
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                        </svg>
-                                        31
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                        </svg>
-                                        56
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                        </svg>
-                                        1
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                        </svg>
-                                        0
                                     </div>
                                 </div>
                             </section>
@@ -1647,6 +1653,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">rsalmei/alive-progress</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1718,21 +1737,6 @@
                                         <div class="message">Windows instructions
 
 Relied on instructions [here](https://static.purple.fr/2015/06/Torse-nu-049.jpg)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">bolinocroustibat/le-jour-et-la-nuit-subtitles-creator</span>
-                                        to
-                                        <span class="repo">mavaddat/le-jour-et-la-nuit-subtitles-creator</span>
                                     </div>
                                 </div>
                             </section>
@@ -2246,7 +2250,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.23066392881588 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.27310061601644 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2349,7 +2353,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="130.2 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="130.71666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2368,7 +2372,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                                     <span class="prefix">Great</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 452 repositories</div>
+                                <div class="text">Starred 453 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2923,13 +2927,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
                             </svg>
-                            mavaddat (2103 ELO)
+                            mavaddat (2159 ELO)
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M3.217 6.962A3.75 3.75 0 010 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864a1.57 1.57 0 011.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 01-3.217 3.712 5.014 5.014 0 01-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 110 1.5H2.75a.75.75 0 010-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568a1.03 1.03 0 00.373-.227c.084-.085.109-.153.114-.204l.144-1.446a5.014 5.014 0 01-2.77-3.117zM3 2.5H1.75a.25.25 0 00-.25.25v.5c0 .98.626 1.813 1.5 2.122V2.5zm4.457 7.97l-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.764.764 0 00-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.763.763 0 00-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.052 5.052 0 01-1.087 0zM13 5.373V2.5h1.25a.25.25 0 01.25.25v.5A2.25 2.25 0 0113 5.372zM4.5 1.568c0-.037.03-.068.068-.068h6.864c.037 0 .068.03.068.068V5.5a3.5 3.5 0 11-7 0V1.568z"/>
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            1 victory
+                            0 victories
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2943,13 +2947,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M4.243 4.757a3.757 3.757 0 115.851 3.119 6.006 6.006 0 013.9 5.339.75.75 0 01-.715.784H2.721a.75.75 0 01-.714-.784 6.006 6.006 0 013.9-5.34 3.753 3.753 0 01-1.664-3.118z"/>
                             </svg>
-                            westvan007 (2221 ELO)
+                            TorVik-1 (2572 ELO)
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                <path fill-rule="evenodd" d="M3.217 6.962A3.75 3.75 0 010 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864a1.57 1.57 0 011.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 01-3.217 3.712 5.014 5.014 0 01-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 110 1.5H2.75a.75.75 0 010-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568a1.03 1.03 0 00.373-.227c.084-.085.109-.153.114-.204l.144-1.446a5.014 5.014 0 01-2.77-3.117zM3 2.5H1.75a.25.25 0 00-.25.25v.5c0 .98.626 1.813 1.5 2.122V2.5zm4.457 7.97l-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.764.764 0 00-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.763.763 0 00-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.052 5.052 0 01-1.087 0zM13 5.373V2.5h1.25a.25.25 0 01.25.25v.5A2.25 2.25 0 0113 5.372zM4.5 1.568c0-.037.03-.068.068-.068h6.864c.037 0 .068.03.068.068V5.5a3.5 3.5 0 11-7 0V1.568z"/>
                             </svg>
-                            0 victories
+                            1 victory
                         </div>
                     </section>
                 </div>
@@ -3165,8 +3169,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-1">
-                        <div class="from" style="left: 240px; top: 0px;">♞</div>
-                        <div class="to" style="left: 240px; top: 0px;">♞</div>
+                        <div class="from" style="left: 120px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 120px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-1-from {
                     100% {
                       opacity: 1;
@@ -3188,9 +3192,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
-                      top: 80px;
+                      background-color: #ECDAB9;
+                      left: 120px;
+                      top: 120px;
                     }
                   }
                   .chess-move-1 .to {
@@ -3233,8 +3237,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-3">
-                        <div class="from" style="left: 160px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 160px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 80px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 80px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-3-from {
                     100% {
                       opacity: 1;
@@ -3256,9 +3260,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 120px;
+                      background-color: #ECDAB9;
+                      left: 80px;
+                      top: 80px;
                     }
                   }
                   .chess-move-3 .to {
@@ -3267,8 +3271,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-4">
-                        <div class="from" style="left: 120px; top: 160px;">♙</div>
-                        <div class="to" style="left: 120px; top: 160px;">♙</div>
+                        <div class="from" style="left: 240px; top: 280px;">♘</div>
+                        <div class="to" style="left: 240px; top: 280px;">♘</div>
                         <style>@keyframes chess-move-4-from {
                     100% {
                       opacity: 1;
@@ -3290,9 +3294,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 120px;
+                      background-color: #ECDAB9;
+                      left: 200px;
+                      top: 200px;
                     }
                   }
                   .chess-move-4 .to {
@@ -3301,13 +3305,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-5">
-                        <div class="from" style="left: 200px; top: 80px;">♞</div>
-                        <div class="to" style="left: 200px; top: 80px;">♞</div>
+                        <div class="from" style="left: 240px; top: 0px;">♞</div>
+                        <div class="to" style="left: 240px; top: 0px;">♞</div>
                         <style>@keyframes chess-move-5-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-5 .from {
@@ -3324,9 +3328,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 240px;
-                      top: 160px;
+                      background-color: #C5A076;
+                      left: 200px;
+                      top: 80px;
                     }
                   }
                   .chess-move-5 .to {
@@ -3335,13 +3339,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-6">
-                        <div class="from" style="left: 240px; top: 280px;">♘</div>
-                        <div class="to" style="left: 240px; top: 280px;">♘</div>
+                        <div class="from" style="left: 40px; top: 280px;">♘</div>
+                        <div class="to" style="left: 40px; top: 280px;">♘</div>
                         <style>@keyframes chess-move-6-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-6 .from {
@@ -3358,8 +3362,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
+                      background-color: #C5A076;
+                      left: 80px;
                       top: 200px;
                     }
                   }
@@ -3369,13 +3373,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-7">
-                        <div class="from" style="left: 120px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 120px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 160px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 160px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-7-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-7 .from {
@@ -3392,8 +3396,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
+                      background-color: #ECDAB9;
+                      left: 160px;
                       top: 80px;
                     }
                   }
@@ -3427,8 +3431,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 200px;
-                      top: 160px;
+                      left: 240px;
+                      top: 120px;
                     }
                   }
                   .chess-move-8 .to {
@@ -3437,13 +3441,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-9">
-                        <div class="from" style="left: 40px; top: 0px;">♞</div>
-                        <div class="to" style="left: 40px; top: 0px;">♞</div>
+                        <div class="from" style="left: 280px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 280px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-9-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-9 .from {
@@ -3460,8 +3464,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 80px;
+                      background-color: #C5A076;
+                      left: 280px;
                       top: 80px;
                     }
                   }
@@ -3471,8 +3475,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-10">
-                        <div class="from" style="left: 160px; top: 120px;">♙</div>
-                        <div class="to" style="left: 160px; top: 120px;">♙</div>
+                        <div class="from" style="left: 240px; top: 120px;">♗</div>
+                        <div class="to" style="left: 240px; top: 120px;">♗</div>
                         <style>@keyframes chess-move-10-from {
                     100% {
                       opacity: 1;
@@ -3495,8 +3499,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
+                      left: 280px;
+                      top: 160px;
                     }
                   }
                   .chess-move-10 .to {
@@ -3505,13 +3509,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-11">
-                        <div class="from" style="left: 200px; top: 0px;">♝</div>
-                        <div class="to" style="left: 200px; top: 0px;">♝</div>
+                        <div class="from" style="left: 120px; top: 120px;">♟︎</div>
+                        <div class="to" style="left: 120px; top: 120px;">♟︎</div>
                         <style>@keyframes chess-move-11-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-11 .from {
@@ -3528,9 +3532,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
+                      background-color: #ECDAB9;
+                      left: 80px;
+                      top: 160px;
                     }
                   }
                   .chess-move-11 .to {
@@ -3539,13 +3543,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-12">
-                        <div class="from" style="left: 200px; top: 160px;">♗</div>
-                        <div class="to" style="left: 200px; top: 160px;">♗</div>
+                        <div class="from" style="left: 0px; top: 240px;">♙</div>
+                        <div class="to" style="left: 0px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-12-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-12 .from {
@@ -3562,9 +3566,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
+                      background-color: #ECDAB9;
+                      left: 0px;
+                      top: 160px;
                     }
                   }
                   .chess-move-12 .to {
@@ -3573,13 +3577,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-13">
-                        <div class="from" style="left: 80px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 80px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 40px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 40px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-13-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-13 .from {
@@ -3596,9 +3600,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
+                      background-color: #ECDAB9;
+                      left: 40px;
+                      top: 120px;
                     }
                   }
                   .chess-move-13 .to {
@@ -3607,8 +3611,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-14">
-                        <div class="from" style="left: 40px; top: 280px;">♘</div>
-                        <div class="to" style="left: 40px; top: 280px;">♘</div>
+                        <div class="from" style="left: 0px; top: 160px;">♙</div>
+                        <div class="to" style="left: 0px; top: 160px;">♙</div>
                         <style>@keyframes chess-move-14-from {
                     100% {
                       opacity: 1;
@@ -3630,9 +3634,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 80px;
-                      top: 200px;
+                      background-color: #ECDAB9;
+                      left: 40px;
+                      top: 120px;
                     }
                   }
                   .chess-move-14 .to {
@@ -3641,8 +3645,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-15">
-                        <div class="from" style="left: 160px; top: 0px;">♚</div>
-                        <div class="to" style="left: 160px; top: 0px;">♚</div>
+                        <div class="from" style="left: 80px; top: 80px;">♟︎</div>
+                        <div class="to" style="left: 80px; top: 80px;">♟︎</div>
                         <style>@keyframes chess-move-15-from {
                     100% {
                       opacity: 1;
@@ -3665,8 +3669,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 240px;
-                      top: 0px;
+                      left: 40px;
+                      top: 120px;
                     }
                   }
                   .chess-move-15 .to {
@@ -3675,13 +3679,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-16">
-                        <div class="from" style="left: 160px; top: 240px;">♙</div>
-                        <div class="to" style="left: 160px; top: 240px;">♙</div>
+                        <div class="from" style="left: 80px; top: 200px;">♘</div>
+                        <div class="to" style="left: 80px; top: 200px;">♘</div>
                         <style>@keyframes chess-move-16-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-16 .from {
@@ -3698,9 +3702,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 200px;
+                      background-color: #ECDAB9;
+                      left: 40px;
+                      top: 120px;
                     }
                   }
                   .chess-move-16 .to {
@@ -3709,13 +3713,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-17">
-                        <div class="from" style="left: 80px; top: 80px;">♞</div>
-                        <div class="to" style="left: 80px; top: 80px;">♞</div>
+                        <div class="from" style="left: 120px; top: 0px;">♛</div>
+                        <div class="to" style="left: 120px; top: 0px;">♛</div>
                         <style>@keyframes chess-move-17-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-17 .from {
@@ -3733,8 +3737,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 160px;
-                      top: 120px;
+                      left: 40px;
+                      top: 80px;
                     }
                   }
                   .chess-move-17 .to {
@@ -3743,8 +3747,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-18">
-                        <div class="from" style="left: 200px; top: 280px;">♗</div>
-                        <div class="to" style="left: 200px; top: 280px;">♗</div>
+                        <div class="from" style="left: 40px; top: 120px;">♘</div>
+                        <div class="to" style="left: 40px; top: 120px;">♘</div>
                         <style>@keyframes chess-move-18-from {
                     100% {
                       opacity: 1;
@@ -3766,9 +3770,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 240px;
+                      background-color: #C5A076;
+                      left: 0px;
+                      top: 200px;
                     }
                   }
                   .chess-move-18 .to {
@@ -3777,8 +3781,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-19">
-                        <div class="from" style="left: 160px; top: 120px;">♞</div>
-                        <div class="to" style="left: 160px; top: 120px;">♞</div>
+                        <div class="from" style="left: 40px; top: 80px;">♛</div>
+                        <div class="to" style="left: 40px; top: 80px;">♛</div>
                         <style>@keyframes chess-move-19-from {
                     100% {
                       opacity: 1;
@@ -3800,9 +3804,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 200px;
+                      background-color: #C5A076;
+                      left: 40px;
+                      top: 240px;
                     }
                   }
                   .chess-move-19 .to {
@@ -3811,13 +3815,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-20">
-                        <div class="from" style="left: 240px; top: 240px;">♙</div>
-                        <div class="to" style="left: 240px; top: 240px;">♙</div>
+                        <div class="from" style="left: 0px; top: 200px;">♘</div>
+                        <div class="to" style="left: 0px; top: 200px;">♘</div>
                         <style>@keyframes chess-move-20-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-20 .from {
@@ -3835,8 +3839,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 200px;
-                      top: 200px;
+                      left: 80px;
+                      top: 160px;
                     }
                   }
                   .chess-move-20 .to {
@@ -3845,13 +3849,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-21">
-                        <div class="from" style="left: 240px; top: 160px;">♞</div>
-                        <div class="to" style="left: 240px; top: 160px;">♞</div>
+                        <div class="from" style="left: 200px; top: 0px;">♝</div>
+                        <div class="to" style="left: 200px; top: 0px;">♝</div>
                         <style>@keyframes chess-move-21-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-21 .from {
@@ -3869,8 +3873,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 160px;
-                      top: 120px;
+                      left: 40px;
+                      top: 160px;
                     }
                   }
                   .chess-move-21 .to {
@@ -3879,8 +3883,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-22">
-                        <div class="from" style="left: 200px; top: 200px;">♙</div>
-                        <div class="to" style="left: 200px; top: 200px;">♙</div>
+                        <div class="from" style="left: 80px; top: 160px;">♘</div>
+                        <div class="to" style="left: 80px; top: 160px;">♘</div>
                         <style>@keyframes chess-move-22-from {
                     100% {
                       opacity: 1;
@@ -3903,8 +3907,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 200px;
-                      top: 160px;
+                      left: 120px;
+                      top: 240px;
                     }
                   }
                   .chess-move-22 .to {
@@ -3913,8 +3917,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-23">
-                        <div class="from" style="left: 160px; top: 120px;">♞</div>
-                        <div class="to" style="left: 160px; top: 120px;">♞</div>
+                        <div class="from" style="left: 200px; top: 80px;">♞</div>
+                        <div class="to" style="left: 200px; top: 80px;">♞</div>
                         <style>@keyframes chess-move-23-from {
                     100% {
                       opacity: 1;
@@ -3937,8 +3941,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 80px;
-                      top: 80px;
+                      left: 160px;
+                      top: 160px;
                     }
                   }
                   .chess-move-23 .to {
@@ -3947,13 +3951,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-24">
-                        <div class="from" style="left: 120px; top: 280px;">♕</div>
-                        <div class="to" style="left: 120px; top: 280px;">♕</div>
+                        <div class="from" style="left: 0px; top: 280px;">♖</div>
+                        <div class="to" style="left: 0px; top: 280px;">♖</div>
                         <style>@keyframes chess-move-24-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-24 .from {
@@ -3971,8 +3975,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 120px;
-                      top: 240px;
+                      left: 80px;
+                      top: 280px;
                     }
                   }
                   .chess-move-24 .to {
@@ -3981,13 +3985,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-25">
-                        <div class="from" style="left: 120px; top: 0px;">♛</div>
-                        <div class="to" style="left: 120px; top: 0px;">♛</div>
+                        <div class="from" style="left: 160px; top: 0px;">♚</div>
+                        <div class="to" style="left: 160px; top: 0px;">♚</div>
                         <style>@keyframes chess-move-25-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-25 .from {
@@ -4005,8 +4009,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 120px;
-                      top: 40px;
+                      left: 240px;
+                      top: 0px;
                     }
                   }
                   .chess-move-25 .to {
@@ -4015,8 +4019,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-26">
-                        <div class="from" style="left: 160px; top: 280px;">♔</div>
-                        <div class="to" style="left: 160px; top: 280px;">♔</div>
+                        <div class="from" style="left: 80px; top: 280px;">♖</div>
+                        <div class="to" style="left: 80px; top: 280px;">♖</div>
                         <style>@keyframes chess-move-26-from {
                     100% {
                       opacity: 1;
@@ -4038,9 +4042,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                       left: 80px;
-                      top: 280px;
+                      top: 240px;
                     }
                   }
                   .chess-move-26 .to {
@@ -4049,13 +4053,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-27">
-                        <div class="from" style="left: 200px; top: 0px;">♜</div>
-                        <div class="to" style="left: 200px; top: 0px;">♜</div>
+                        <div class="from" style="left: 160px; top: 160px;">♞</div>
+                        <div class="to" style="left: 160px; top: 160px;">♞</div>
                         <style>@keyframes chess-move-27-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-27 .from {
@@ -4074,7 +4078,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                       opacity: 1;
                       background-color: #C5A076;
                       left: 120px;
-                      top: 0px;
+                      top: 240px;
                     }
                   }
                   .chess-move-27 .to {
@@ -4083,8 +4087,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-28">
-                        <div class="from" style="left: 280px; top: 280px;">♖</div>
-                        <div class="to" style="left: 280px; top: 280px;">♖</div>
+                        <div class="from" style="left: 200px; top: 200px;">♘</div>
+                        <div class="to" style="left: 200px; top: 200px;">♘</div>
                         <style>@keyframes chess-move-28-from {
                     100% {
                       opacity: 1;
@@ -4107,8 +4111,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 240px;
-                      top: 280px;
+                      left: 120px;
+                      top: 240px;
                     }
                   }
                   .chess-move-28 .to {
@@ -4117,8 +4121,8 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-29">
-                        <div class="from" style="left: 0px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 0px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 40px; top: 240px;">♛</div>
+                        <div class="to" style="left: 40px; top: 240px;">♛</div>
                         <style>@keyframes chess-move-29-from {
                     100% {
                       opacity: 1;
@@ -4140,9 +4144,9 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 0px;
-                      top: 80px;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 160px;
                     }
                   }
                   .chess-move-29 .to {
@@ -4151,13 +4155,13 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                   }</style>
                     </div>
                     <div class="chess-move chess-move-30">
-                        <div class="from" style="left: 80px; top: 200px;">♘</div>
-                        <div class="to" style="left: 80px; top: 200px;">♘</div>
+                        <div class="from" style="left: 80px; top: 240px;">♖</div>
+                        <div class="to" style="left: 80px; top: 240px;">♖</div>
                         <style>@keyframes chess-move-30-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-30 .from {
@@ -4174,1850 +4178,14 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 160px;
+                      background-color: #C5A076;
+                      left: 80px;
+                      top: 280px;
                     }
                   }
                   .chess-move-30 .to {
                     animation-name: chess-move-30-to;
                     animation-delay: 21s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-31">
-                        <div class="from" style="left: 240px; top: 0px;">♚</div>
-                        <div class="to" style="left: 240px; top: 0px;">♚</div>
-                        <style>@keyframes chess-move-31-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-31 .from {
-                    animation-name: chess-move-31-from;
-                    animation-delay: 21.599999999999998s;
-                  }
-
-                  @keyframes chess-move-31-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 280px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-31 .to {
-                    animation-name: chess-move-31-to;
-                    animation-delay: 21.599999999999998s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-32">
-                        <div class="from" style="left: 120px; top: 240px;">♕</div>
-                        <div class="to" style="left: 120px; top: 240px;">♕</div>
-                        <style>@keyframes chess-move-32-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-32 .from {
-                    animation-name: chess-move-32-from;
-                    animation-delay: 22.2s;
-                  }
-
-                  @keyframes chess-move-32-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-32 .to {
-                    animation-name: chess-move-32-to;
-                    animation-delay: 22.2s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-33">
-                        <div class="from" style="left: 120px; top: 40px;">♛</div>
-                        <div class="to" style="left: 120px; top: 40px;">♛</div>
-                        <style>@keyframes chess-move-33-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-33 .from {
-                    animation-name: chess-move-33-from;
-                    animation-delay: 22.8s;
-                  }
-
-                  @keyframes chess-move-33-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-33 .to {
-                    animation-name: chess-move-33-to;
-                    animation-delay: 22.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-34">
-                        <div class="from" style="left: 120px; top: 280px;">♖</div>
-                        <div class="to" style="left: 120px; top: 280px;">♖</div>
-                        <style>@keyframes chess-move-34-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-34 .from {
-                    animation-name: chess-move-34-from;
-                    animation-delay: 23.4s;
-                  }
-
-                  @keyframes chess-move-34-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-34 .to {
-                    animation-name: chess-move-34-to;
-                    animation-delay: 23.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-35">
-                        <div class="from" style="left: 80px; top: 0px;">♝</div>
-                        <div class="to" style="left: 80px; top: 0px;">♝</div>
-                        <style>@keyframes chess-move-35-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-35 .from {
-                    animation-name: chess-move-35-from;
-                    animation-delay: 24s;
-                  }
-
-                  @keyframes chess-move-35-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-35 .to {
-                    animation-name: chess-move-35-to;
-                    animation-delay: 24s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-36">
-                        <div class="from" style="left: 240px; top: 280px;">♖</div>
-                        <div class="to" style="left: 240px; top: 280px;">♖</div>
-                        <style>@keyframes chess-move-36-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-36 .from {
-                    animation-name: chess-move-36-from;
-                    animation-delay: 24.599999999999998s;
-                  }
-
-                  @keyframes chess-move-36-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 120px;
-                      top: 280px;
-                    }
-                  }
-                  .chess-move-36 .to {
-                    animation-name: chess-move-36-to;
-                    animation-delay: 24.599999999999998s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-37">
-                        <div class="from" style="left: 120px; top: 0px;">♜</div>
-                        <div class="to" style="left: 120px; top: 0px;">♜</div>
-                        <style>@keyframes chess-move-37-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-37 .from {
-                    animation-name: chess-move-37-from;
-                    animation-delay: 25.2s;
-                  }
-
-                  @keyframes chess-move-37-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-37 .to {
-                    animation-name: chess-move-37-to;
-                    animation-delay: 25.2s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-38">
-                        <div class="from" style="left: 120px; top: 280px;">♖</div>
-                        <div class="to" style="left: 120px; top: 280px;">♖</div>
-                        <style>@keyframes chess-move-38-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-38 .from {
-                    animation-name: chess-move-38-from;
-                    animation-delay: 25.8s;
-                  }
-
-                  @keyframes chess-move-38-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-38 .to {
-                    animation-name: chess-move-38-to;
-                    animation-delay: 25.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-39">
-                        <div class="from" style="left: 0px; top: 0px;">♜</div>
-                        <div class="to" style="left: 0px; top: 0px;">♜</div>
-                        <style>@keyframes chess-move-39-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-39 .from {
-                    animation-name: chess-move-39-from;
-                    animation-delay: 26.4s;
-                  }
-
-                  @keyframes chess-move-39-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 80px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-39 .to {
-                    animation-name: chess-move-39-to;
-                    animation-delay: 26.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-40">
-                        <div class="from" style="left: 80px; top: 280px;">♔</div>
-                        <div class="to" style="left: 80px; top: 280px;">♔</div>
-                        <style>@keyframes chess-move-40-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-40 .from {
-                    animation-name: chess-move-40-from;
-                    animation-delay: 27s;
-                  }
-
-                  @keyframes chess-move-40-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 40px;
-                      top: 280px;
-                    }
-                  }
-                  .chess-move-40 .to {
-                    animation-name: chess-move-40-to;
-                    animation-delay: 27s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-41">
-                        <div class="from" style="left: 160px; top: 80px;">♝</div>
-                        <div class="to" style="left: 160px; top: 80px;">♝</div>
-                        <style>@keyframes chess-move-41-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-41 .from {
-                    animation-name: chess-move-41-from;
-                    animation-delay: 27.599999999999998s;
-                  }
-
-                  @keyframes chess-move-41-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-41 .to {
-                    animation-name: chess-move-41-to;
-                    animation-delay: 27.599999999999998s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-42">
-                        <div class="from" style="left: 200px; top: 240px;">♙</div>
-                        <div class="to" style="left: 200px; top: 240px;">♙</div>
-                        <style>@keyframes chess-move-42-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-42 .from {
-                    animation-name: chess-move-42-from;
-                    animation-delay: 28.2s;
-                  }
-
-                  @keyframes chess-move-42-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 200px;
-                    }
-                  }
-                  .chess-move-42 .to {
-                    animation-name: chess-move-42-to;
-                    animation-delay: 28.2s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-43">
-                        <div class="from" style="left: 80px; top: 0px;">♜</div>
-                        <div class="to" style="left: 80px; top: 0px;">♜</div>
-                        <style>@keyframes chess-move-43-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-43 .from {
-                    animation-name: chess-move-43-from;
-                    animation-delay: 28.8s;
-                  }
-
-                  @keyframes chess-move-43-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-43 .to {
-                    animation-name: chess-move-43-to;
-                    animation-delay: 28.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-44">
-                        <div class="from" style="left: 40px; top: 280px;">♔</div>
-                        <div class="to" style="left: 40px; top: 280px;">♔</div>
-                        <style>@keyframes chess-move-44-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-44 .from {
-                    animation-name: chess-move-44-from;
-                    animation-delay: 29.4s;
-                  }
-
-                  @keyframes chess-move-44-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 0px;
-                      top: 280px;
-                    }
-                  }
-                  .chess-move-44 .to {
-                    animation-name: chess-move-44-to;
-                    animation-delay: 29.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-45">
-                        <div class="from" style="left: 200px; top: 120px;">♝</div>
-                        <div class="to" style="left: 200px; top: 120px;">♝</div>
-                        <style>@keyframes chess-move-45-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-45 .from {
-                    animation-name: chess-move-45-from;
-                    animation-delay: 30s;
-                  }
-
-                  @keyframes chess-move-45-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 160px;
-                    }
-                  }
-                  .chess-move-45 .to {
-                    animation-name: chess-move-45-to;
-                    animation-delay: 30s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-46">
-                        <div class="from" style="left: 200px; top: 200px;">♙</div>
-                        <div class="to" style="left: 200px; top: 200px;">♙</div>
-                        <style>@keyframes chess-move-46-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-46 .from {
-                    animation-name: chess-move-46-from;
-                    animation-delay: 30.599999999999998s;
-                  }
-
-                  @keyframes chess-move-46-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 160px;
-                    }
-                  }
-                  .chess-move-46 .to {
-                    animation-name: chess-move-46-to;
-                    animation-delay: 30.599999999999998s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-47">
-                        <div class="from" style="left: 160px; top: 0px;">♜</div>
-                        <div class="to" style="left: 160px; top: 0px;">♜</div>
-                        <style>@keyframes chess-move-47-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-47 .from {
-                    animation-name: chess-move-47-from;
-                    animation-delay: 31.2s;
-                  }
-
-                  @keyframes chess-move-47-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 160px;
-                    }
-                  }
-                  .chess-move-47 .to {
-                    animation-name: chess-move-47-to;
-                    animation-delay: 31.2s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-48">
-                        <div class="from" style="left: 120px; top: 80px;">♖</div>
-                        <div class="to" style="left: 120px; top: 80px;">♖</div>
-                        <style>@keyframes chess-move-48-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-48 .from {
-                    animation-name: chess-move-48-from;
-                    animation-delay: 31.799999999999997s;
-                  }
-
-                  @keyframes chess-move-48-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 120px;
-                      top: 200px;
-                    }
-                  }
-                  .chess-move-48 .to {
-                    animation-name: chess-move-48-to;
-                    animation-delay: 31.799999999999997s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-49">
-                        <div class="from" style="left: 240px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 240px; top: 40px;">♟︎</div>
-                        <style>@keyframes chess-move-49-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-49 .from {
-                    animation-name: chess-move-49-from;
-                    animation-delay: 32.4s;
-                  }
-
-                  @keyframes chess-move-49-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 240px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-49 .to {
-                    animation-name: chess-move-49-to;
-                    animation-delay: 32.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-50">
-                        <div class="from" style="left: 0px; top: 240px;">♙</div>
-                        <div class="to" style="left: 0px; top: 240px;">♙</div>
-                        <style>@keyframes chess-move-50-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-50 .from {
-                    animation-name: chess-move-50-from;
-                    animation-delay: 33s;
-                  }
-
-                  @keyframes chess-move-50-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 0px;
-                      top: 200px;
-                    }
-                  }
-                  .chess-move-50 .to {
-                    animation-name: chess-move-50-to;
-                    animation-delay: 33s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-51">
-                        <div class="from" style="left: 280px; top: 0px;">♚</div>
-                        <div class="to" style="left: 280px; top: 0px;">♚</div>
-                        <style>@keyframes chess-move-51-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-51 .from {
-                    animation-name: chess-move-51-from;
-                    animation-delay: 33.599999999999994s;
-                  }
-
-                  @keyframes chess-move-51-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 240px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-51 .to {
-                    animation-name: chess-move-51-to;
-                    animation-delay: 33.599999999999994s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-52">
-                        <div class="from" style="left: 160px; top: 240px;">♗</div>
-                        <div class="to" style="left: 160px; top: 240px;">♗</div>
-                        <style>@keyframes chess-move-52-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-52 .from {
-                    animation-name: chess-move-52-from;
-                    animation-delay: 34.2s;
-                  }
-
-                  @keyframes chess-move-52-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 200px;
-                    }
-                  }
-                  .chess-move-52 .to {
-                    animation-name: chess-move-52-to;
-                    animation-delay: 34.2s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-53">
-                        <div class="from" style="left: 160px; top: 160px;">♜</div>
-                        <div class="to" style="left: 160px; top: 160px;">♜</div>
-                        <style>@keyframes chess-move-53-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-53 .from {
-                    animation-name: chess-move-53-from;
-                    animation-delay: 34.8s;
-                  }
-
-                  @keyframes chess-move-53-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 80px;
-                      top: 160px;
-                    }
-                  }
-                  .chess-move-53 .to {
-                    animation-name: chess-move-53-to;
-                    animation-delay: 34.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-54">
-                        <div class="from" style="left: 120px; top: 200px;">♖</div>
-                        <div class="to" style="left: 120px; top: 200px;">♖</div>
-                        <style>@keyframes chess-move-54-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-54 .from {
-                    animation-name: chess-move-54-from;
-                    animation-delay: 35.4s;
-                  }
-
-                  @keyframes chess-move-54-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 120px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-54 .to {
-                    animation-name: chess-move-54-to;
-                    animation-delay: 35.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-55">
-                        <div class="from" style="left: 80px; top: 80px;">♞</div>
-                        <div class="to" style="left: 80px; top: 80px;">♞</div>
-                        <style>@keyframes chess-move-55-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-55 .from {
-                    animation-name: chess-move-55-from;
-                    animation-delay: 36s;
-                  }
-
-                  @keyframes chess-move-55-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 0px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-55 .to {
-                    animation-name: chess-move-55-to;
-                    animation-delay: 36s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-56">
-                        <div class="from" style="left: 200px; top: 200px;">♗</div>
-                        <div class="to" style="left: 200px; top: 200px;">♗</div>
-                        <style>@keyframes chess-move-56-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-56 .from {
-                    animation-name: chess-move-56-from;
-                    animation-delay: 36.6s;
-                  }
-
-                  @keyframes chess-move-56-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 120px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-56 .to {
-                    animation-name: chess-move-56-to;
-                    animation-delay: 36.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-57">
-                        <div class="from" style="left: 80px; top: 160px;">♜</div>
-                        <div class="to" style="left: 80px; top: 160px;">♜</div>
-                        <style>@keyframes chess-move-57-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-57 .from {
-                    animation-name: chess-move-57-from;
-                    animation-delay: 37.199999999999996s;
-                  }
-
-                  @keyframes chess-move-57-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 80px;
-                      top: 280px;
-                    }
-                  }
-                  .chess-move-57 .to {
-                    animation-name: chess-move-57-to;
-                    animation-delay: 37.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-58">
-                        <div class="from" style="left: 0px; top: 280px;">♔</div>
-                        <div class="to" style="left: 0px; top: 280px;">♔</div>
-                        <style>@keyframes chess-move-58-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-58 .from {
-                    animation-name: chess-move-58-from;
-                    animation-delay: 37.8s;
-                  }
-
-                  @keyframes chess-move-58-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 0px;
-                      top: 240px;
-                    }
-                  }
-                  .chess-move-58 .to {
-                    animation-name: chess-move-58-to;
-                    animation-delay: 37.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-59">
-                        <div class="from" style="left: 80px; top: 280px;">♜</div>
-                        <div class="to" style="left: 80px; top: 280px;">♜</div>
-                        <style>@keyframes chess-move-59-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-59 .from {
-                    animation-name: chess-move-59-from;
-                    animation-delay: 38.4s;
-                  }
-
-                  @keyframes chess-move-59-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 280px;
-                    }
-                  }
-                  .chess-move-59 .to {
-                    animation-name: chess-move-59-to;
-                    animation-delay: 38.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-60">
-                        <div class="from" style="left: 120px; top: 40px;">♖</div>
-                        <div class="to" style="left: 120px; top: 40px;">♖</div>
-                        <style>@keyframes chess-move-60-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-60 .from {
-                    animation-name: chess-move-60-from;
-                    animation-delay: 39s;
-                  }
-
-                  @keyframes chess-move-60-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-60 .to {
-                    animation-name: chess-move-60-to;
-                    animation-delay: 39s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-61">
-                        <div class="from" style="left: 240px; top: 40px;">♚</div>
-                        <div class="to" style="left: 240px; top: 40px;">♚</div>
-                        <style>@keyframes chess-move-61-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-61 .from {
-                    animation-name: chess-move-61-from;
-                    animation-delay: 39.6s;
-                  }
-
-                  @keyframes chess-move-61-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 280px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-61 .to {
-                    animation-name: chess-move-61-to;
-                    animation-delay: 39.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-62">
-                        <div class="from" style="left: 200px; top: 40px;">♖</div>
-                        <div class="to" style="left: 200px; top: 40px;">♖</div>
-                        <style>@keyframes chess-move-62-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-62 .from {
-                    animation-name: chess-move-62-from;
-                    animation-delay: 40.199999999999996s;
-                  }
-
-                  @keyframes chess-move-62-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-62 .to {
-                    animation-name: chess-move-62-to;
-                    animation-delay: 40.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-63">
-                        <div class="from" style="left: 40px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 40px; top: 40px;">♟︎</div>
-                        <style>@keyframes chess-move-63-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-63 .from {
-                    animation-name: chess-move-63-from;
-                    animation-delay: 40.8s;
-                  }
-
-                  @keyframes chess-move-63-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 40px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-63 .to {
-                    animation-name: chess-move-63-to;
-                    animation-delay: 40.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-64">
-                        <div class="from" style="left: 120px; top: 120px;">♗</div>
-                        <div class="to" style="left: 120px; top: 120px;">♗</div>
-                        <style>@keyframes chess-move-64-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-64 .from {
-                    animation-name: chess-move-64-from;
-                    animation-delay: 41.4s;
-                  }
-
-                  @keyframes chess-move-64-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 240px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-64 .to {
-                    animation-name: chess-move-64-to;
-                    animation-delay: 41.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-65">
-                        <div class="from" style="left: 240px; top: 80px;">♟︎</div>
-                        <div class="to" style="left: 240px; top: 80px;">♟︎</div>
-                        <style>@keyframes chess-move-65-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-65 .from {
-                    animation-name: chess-move-65-from;
-                    animation-delay: 42s;
-                  }
-
-                  @keyframes chess-move-65-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 240px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-65 .to {
-                    animation-name: chess-move-65-to;
-                    animation-delay: 42s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-66">
-                        <div class="from" style="left: 160px; top: 40px;">♖</div>
-                        <div class="to" style="left: 160px; top: 40px;">♖</div>
-                        <style>@keyframes chess-move-66-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-66 .from {
-                    animation-name: chess-move-66-from;
-                    animation-delay: 42.6s;
-                  }
-
-                  @keyframes chess-move-66-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 280px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-66 .to {
-                    animation-name: chess-move-66-to;
-                    animation-delay: 42.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-67">
-                        <div class="from" style="left: 280px; top: 80px;">♚</div>
-                        <div class="to" style="left: 280px; top: 80px;">♚</div>
-                        <style>@keyframes chess-move-67-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-67 .from {
-                    animation-name: chess-move-67-from;
-                    animation-delay: 43.199999999999996s;
-                  }
-
-                  @keyframes chess-move-67-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 240px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-67 .to {
-                    animation-name: chess-move-67-to;
-                    animation-delay: 43.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-68">
-                        <div class="from" style="left: 200px; top: 160px;">♙</div>
-                        <div class="to" style="left: 200px; top: 160px;">♙</div>
-                        <style>@keyframes chess-move-68-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-68 .from {
-                    animation-name: chess-move-68-from;
-                    animation-delay: 43.8s;
-                  }
-
-                  @keyframes chess-move-68-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 240px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-68 .to {
-                    animation-name: chess-move-68-to;
-                    animation-delay: 43.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-69">
-                        <div class="from" style="left: 240px; top: 80px;">♚</div>
-                        <div class="to" style="left: 240px; top: 80px;">♚</div>
-                        <style>@keyframes chess-move-69-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-69 .from {
-                    animation-name: chess-move-69-from;
-                    animation-delay: 44.4s;
-                  }
-
-                  @keyframes chess-move-69-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 240px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-69 .to {
-                    animation-name: chess-move-69-to;
-                    animation-delay: 44.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-70">
-                        <div class="from" style="left: 280px; top: 240px;">♙</div>
-                        <div class="to" style="left: 280px; top: 240px;">♙</div>
-                        <style>@keyframes chess-move-70-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-70 .from {
-                    animation-name: chess-move-70-from;
-                    animation-delay: 45s;
-                  }
-
-                  @keyframes chess-move-70-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 280px;
-                      top: 160px;
-                    }
-                  }
-                  .chess-move-70 .to {
-                    animation-name: chess-move-70-to;
-                    animation-delay: 45s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-71">
-                        <div class="from" style="left: 240px; top: 120px;">♚</div>
-                        <div class="to" style="left: 240px; top: 120px;">♚</div>
-                        <style>@keyframes chess-move-71-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-71 .from {
-                    animation-name: chess-move-71-from;
-                    animation-delay: 45.6s;
-                  }
-
-                  @keyframes chess-move-71-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 240px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-71 .to {
-                    animation-name: chess-move-71-to;
-                    animation-delay: 45.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-72">
-                        <div class="from" style="left: 280px; top: 40px;">♖</div>
-                        <div class="to" style="left: 280px; top: 40px;">♖</div>
-                        <style>@keyframes chess-move-72-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-72 .from {
-                    animation-name: chess-move-72-from;
-                    animation-delay: 46.199999999999996s;
-                  }
-
-                  @keyframes chess-move-72-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-72 .to {
-                    animation-name: chess-move-72-to;
-                    animation-delay: 46.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-73">
-                        <div class="from" style="left: 240px; top: 80px;">♚</div>
-                        <div class="to" style="left: 240px; top: 80px;">♚</div>
-                        <style>@keyframes chess-move-73-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-73 .from {
-                    animation-name: chess-move-73-from;
-                    animation-delay: 46.8s;
-                  }
-
-                  @keyframes chess-move-73-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-73 .to {
-                    animation-name: chess-move-73-to;
-                    animation-delay: 46.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-74">
-                        <div class="from" style="left: 160px; top: 40px;">♖</div>
-                        <div class="to" style="left: 160px; top: 40px;">♖</div>
-                        <style>@keyframes chess-move-74-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-74 .from {
-                    animation-name: chess-move-74-from;
-                    animation-delay: 47.4s;
-                  }
-
-                  @keyframes chess-move-74-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-74 .to {
-                    animation-name: chess-move-74-to;
-                    animation-delay: 47.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-75">
-                        <div class="from" style="left: 200px; top: 80px;">♚</div>
-                        <div class="to" style="left: 200px; top: 80px;">♚</div>
-                        <style>@keyframes chess-move-75-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-75 .from {
-                    animation-name: chess-move-75-from;
-                    animation-delay: 48s;
-                  }
-
-                  @keyframes chess-move-75-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 240px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-75 .to {
-                    animation-name: chess-move-75-to;
-                    animation-delay: 48s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-76">
-                        <div class="from" style="left: 160px; top: 80px;">♖</div>
-                        <div class="to" style="left: 160px; top: 80px;">♖</div>
-                        <style>@keyframes chess-move-76-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-76 .from {
-                    animation-name: chess-move-76-from;
-                    animation-delay: 48.6s;
-                  }
-
-                  @keyframes chess-move-76-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 0px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-76 .to {
-                    animation-name: chess-move-76-to;
-                    animation-delay: 48.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-77">
-                        <div class="from" style="left: 240px; top: 40px;">♚</div>
-                        <div class="to" style="left: 240px; top: 40px;">♚</div>
-                        <style>@keyframes chess-move-77-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-77 .from {
-                    animation-name: chess-move-77-from;
-                    animation-delay: 49.199999999999996s;
-                  }
-
-                  @keyframes chess-move-77-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 240px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-77 .to {
-                    animation-name: chess-move-77-to;
-                    animation-delay: 49.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-78">
-                        <div class="from" style="left: 0px; top: 80px;">♖</div>
-                        <div class="to" style="left: 0px; top: 80px;">♖</div>
-                        <style>@keyframes chess-move-78-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-78 .from {
-                    animation-name: chess-move-78-from;
-                    animation-delay: 49.8s;
-                  }
-
-                  @keyframes chess-move-78-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 0px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-78 .to {
-                    animation-name: chess-move-78-to;
-                    animation-delay: 49.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-79">
-                        <div class="from" style="left: 160px; top: 280px;">♜</div>
-                        <div class="to" style="left: 160px; top: 280px;">♜</div>
-                        <style>@keyframes chess-move-79-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-79 .from {
-                    animation-name: chess-move-79-from;
-                    animation-delay: 50.4s;
-                  }
-
-                  @keyframes chess-move-79-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 200px;
-                    }
-                  }
-                  .chess-move-79 .to {
-                    animation-name: chess-move-79-to;
-                    animation-delay: 50.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-80">
-                        <div class="from" style="left: 0px; top: 120px;">♖</div>
-                        <div class="to" style="left: 0px; top: 120px;">♖</div>
-                        <style>@keyframes chess-move-80-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-80 .from {
-                    animation-name: chess-move-80-from;
-                    animation-delay: 51s;
-                  }
-
-                  @keyframes chess-move-80-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 40px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-80 .to {
-                    animation-name: chess-move-80-to;
-                    animation-delay: 51s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-81">
-                        <div class="from" style="left: 160px; top: 200px;">♜</div>
-                        <div class="to" style="left: 160px; top: 200px;">♜</div>
-                        <style>@keyframes chess-move-81-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-81 .from {
-                    animation-name: chess-move-81-from;
-                    animation-delay: 51.6s;
-                  }
-
-                  @keyframes chess-move-81-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 280px;
-                      top: 200px;
-                    }
-                  }
-                  .chess-move-81 .to {
-                    animation-name: chess-move-81-to;
-                    animation-delay: 51.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-82">
-                        <div class="from" style="left: 280px; top: 160px;">♙</div>
-                        <div class="to" style="left: 280px; top: 160px;">♙</div>
-                        <style>@keyframes chess-move-82-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-82 .from {
-                    animation-name: chess-move-82-from;
-                    animation-delay: 52.199999999999996s;
-                  }
-
-                  @keyframes chess-move-82-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 280px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-82 .to {
-                    animation-name: chess-move-82-to;
-                    animation-delay: 52.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-83">
-                        <div class="from" style="left: 240px; top: 0px;">♚</div>
-                        <div class="to" style="left: 240px; top: 0px;">♚</div>
-                        <style>@keyframes chess-move-83-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-83 .from {
-                    animation-name: chess-move-83-from;
-                    animation-delay: 52.8s;
-                  }
-
-                  @keyframes chess-move-83-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 280px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-83 .to {
-                    animation-name: chess-move-83-to;
-                    animation-delay: 52.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-84">
-                        <div class="from" style="left: 0px; top: 200px;">♙</div>
-                        <div class="to" style="left: 0px; top: 200px;">♙</div>
-                        <style>@keyframes chess-move-84-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-84 .from {
-                    animation-name: chess-move-84-from;
-                    animation-delay: 53.4s;
-                  }
-
-                  @keyframes chess-move-84-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 0px;
-                      top: 160px;
-                    }
-                  }
-                  .chess-move-84 .to {
-                    animation-name: chess-move-84-to;
-                    animation-delay: 53.4s;
                   }</style>
                     </div>
                     <style>.chess-board {
@@ -6051,7 +4219,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
               animation-fill-mode: forwards;
               animation-name: chess-clock;
               animation-delay: 3s;
-              animation-duration: 51s;
+              animation-duration: 18.599999999999998s;
               animation-timing-function: linear;
             }
             @keyframes chess-clock {
@@ -6087,7 +4255,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Dec 2022, 12:16:47 (timezone America/Vancouver) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 17 Dec 2022, 13:13:44 (timezone America/Vancouver) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
