@@ -2143,7 +2143,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 216k out of 385m repositories</span>
+                                    <span class="gh">ranked 207k out of 385m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 151 stars</div>
                             </div>
@@ -4532,7 +4532,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Mar 2023, 19:29:19 (timezone America/Vancouver) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 18 Mar 2023, 20:08:30 (timezone America/Vancouver) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
