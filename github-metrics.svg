@@ -822,7 +822,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wickedest/Mergely</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Merge and diff documents online</div>
@@ -5015,7 +5015,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Apr 2023, 20:05:53 (timezone America/Vancouver) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Apr 2023, 21:06:12 (timezone America/Vancouver) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
