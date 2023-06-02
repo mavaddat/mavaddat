@@ -864,7 +864,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danielgerlag/workflow-core</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight workflow engine for .NET Standard</div>
@@ -917,7 +917,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elsa-workflows/elsa-core</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A .NET workflows library</div>
@@ -970,7 +970,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mottie/tablesorter</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Github fork of Christian Bach's tablesorter plugin + awesomeness ~</div>
@@ -5043,7 +5043,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jun 2023, 15:05:27 (timezone America/Vancouver) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Jun 2023, 16:05:59 (timezone America/Vancouver) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
