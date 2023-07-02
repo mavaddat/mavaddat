@@ -2354,7 +2354,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 432k out of 119m users</span>
+                                    <span class="gh">ranked 433k out of 119m users</span>
                                 </div>
                                 <div class="text">Followed by 27 users</div>
                             </div>
@@ -5121,7 +5121,7 @@ So my question is, what am I doing wrong? How can I get these more detailed perm
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jul 2023, 00:05:32 (timezone America/Vancouver) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Jul 2023, 01:06:19 (timezone America/Vancouver) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
