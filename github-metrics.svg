@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    365k added, 309k removed
+                                    79k added, 495 removed
                                 </div>
                             </section>
                             <section>
@@ -1770,7 +1770,7 @@ Has anyone encountered a similar issue or does anyone have any suggestions on wh
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                             </svg>
-                                            217
+                                            218
                                         </div>
                                         <div>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2634,7 +2634,7 @@ I was expecting that I could call the base class constructor with the same const
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
                             </svg>
-                            mavaddat (2328 ELO)
+                            mavaddat (2400 ELO)
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2654,7 +2654,7 @@ I was expecting that I could call the base class constructor with the same const
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M4.243 4.757a3.757 3.757 0 115.851 3.119 6.006 6.006 0 013.9 5.339.75.75 0 01-.715.784H2.721a.75.75 0 01-.714-.784 6.006 6.006 0 013.9-5.34 3.753 3.753 0 01-1.664-3.118z"/>
                             </svg>
-                            AlejandroRivas (2298 ELO)
+                            realfakhri (2265 ELO)
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2876,13 +2876,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-1">
-                        <div class="from" style="left: 80px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 80px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 120px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 120px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-1-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-1 .from {
@@ -2900,8 +2900,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 80px;
-                      top: 80px;
+                      left: 120px;
+                      top: 120px;
                     }
                   }
                   .chess-move-1 .to {
@@ -2944,13 +2944,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-3">
-                        <div class="from" style="left: 120px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 120px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 80px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 80px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-3-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-3 .from {
@@ -2967,8 +2967,8 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
+                      background-color: #ECDAB9;
+                      left: 80px;
                       top: 80px;
                     }
                   }
@@ -2978,13 +2978,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-4">
-                        <div class="from" style="left: 160px; top: 240px;">♙</div>
-                        <div class="to" style="left: 160px; top: 240px;">♙</div>
+                        <div class="from" style="left: 240px; top: 280px;">♘</div>
+                        <div class="to" style="left: 240px; top: 280px;">♘</div>
                         <style>@keyframes chess-move-4-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-4 .from {
@@ -3002,8 +3002,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 160px;
-                      top: 160px;
+                      left: 200px;
+                      top: 200px;
                     }
                   }
                   .chess-move-4 .to {
@@ -3012,13 +3012,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-5">
-                        <div class="from" style="left: 40px; top: 0px;">♞</div>
-                        <div class="to" style="left: 40px; top: 0px;">♞</div>
+                        <div class="from" style="left: 240px; top: 0px;">♞</div>
+                        <div class="to" style="left: 240px; top: 0px;">♞</div>
                         <style>@keyframes chess-move-5-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-5 .from {
@@ -3035,9 +3035,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 120px;
-                      top: 40px;
+                      background-color: #C5A076;
+                      left: 200px;
+                      top: 80px;
                     }
                   }
                   .chess-move-5 .to {
@@ -3080,8 +3080,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-7">
-                        <div class="from" style="left: 120px; top: 0px;">♛</div>
-                        <div class="to" style="left: 120px; top: 0px;">♛</div>
+                        <div class="from" style="left: 160px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 160px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-7-from {
                     100% {
                       opacity: 1;
@@ -3103,9 +3103,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 80px;
-                      top: 40px;
+                      background-color: #ECDAB9;
+                      left: 160px;
+                      top: 80px;
                     }
                   }
                   .chess-move-7 .to {
@@ -3114,8 +3114,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-8">
-                        <div class="from" style="left: 200px; top: 240px;">♙</div>
-                        <div class="to" style="left: 200px; top: 240px;">♙</div>
+                        <div class="from" style="left: 80px; top: 280px;">♗</div>
+                        <div class="to" style="left: 80px; top: 280px;">♗</div>
                         <style>@keyframes chess-move-8-from {
                     100% {
                       opacity: 1;
@@ -3138,8 +3138,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 200px;
-                      top: 160px;
+                      left: 240px;
+                      top: 120px;
                     }
                   }
                   .chess-move-8 .to {
@@ -3148,8 +3148,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-9">
-                        <div class="from" style="left: 160px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 160px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 200px; top: 0px;">♝</div>
+                        <div class="to" style="left: 200px; top: 0px;">♝</div>
                         <style>@keyframes chess-move-9-from {
                     100% {
                       opacity: 1;
@@ -3173,7 +3173,7 @@ I was expecting that I could call the base class constructor with the same const
                       opacity: 1;
                       background-color: #C5A076;
                       left: 160px;
-                      top: 120px;
+                      top: 40px;
                     }
                   }
                   .chess-move-9 .to {
@@ -3182,13 +3182,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-10">
-                        <div class="from" style="left: 200px; top: 160px;">♙</div>
-                        <div class="to" style="left: 200px; top: 160px;">♙</div>
+                        <div class="from" style="left: 160px; top: 240px;">♙</div>
+                        <div class="to" style="left: 160px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-10-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-10 .from {
@@ -3207,7 +3207,7 @@ I was expecting that I could call the base class constructor with the same const
                       opacity: 1;
                       background-color: #C5A076;
                       left: 160px;
-                      top: 120px;
+                      top: 200px;
                     }
                   }
                   .chess-move-10 .to {
@@ -3216,8 +3216,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-11">
-                        <div class="from" style="left: 120px; top: 80px;">♟︎</div>
-                        <div class="to" style="left: 120px; top: 80px;">♟︎</div>
+                        <div class="from" style="left: 40px; top: 0px;">♞</div>
+                        <div class="to" style="left: 40px; top: 0px;">♞</div>
                         <style>@keyframes chess-move-11-from {
                     100% {
                       opacity: 1;
@@ -3239,9 +3239,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 120px;
+                      background-color: #ECDAB9;
+                      left: 120px;
+                      top: 40px;
                     }
                   }
                   .chess-move-11 .to {
@@ -3250,8 +3250,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-12">
-                        <div class="from" style="left: 240px; top: 280px;">♘</div>
-                        <div class="to" style="left: 240px; top: 280px;">♘</div>
+                        <div class="from" style="left: 280px; top: 240px;">♙</div>
+                        <div class="to" style="left: 280px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-12-from {
                     100% {
                       opacity: 1;
@@ -3274,7 +3274,7 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 200px;
+                      left: 280px;
                       top: 200px;
                     }
                   }
@@ -3284,8 +3284,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-13">
-                        <div class="from" style="left: 240px; top: 0px;">♞</div>
-                        <div class="to" style="left: 240px; top: 0px;">♞</div>
+                        <div class="from" style="left: 160px; top: 0px;">♚</div>
+                        <div class="to" style="left: 160px; top: 0px;">♚</div>
                         <style>@keyframes chess-move-13-from {
                     100% {
                       opacity: 1;
@@ -3307,9 +3307,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
-                      top: 80px;
+                      background-color: #ECDAB9;
+                      left: 240px;
+                      top: 0px;
                     }
                   }
                   .chess-move-13 .to {
@@ -3318,13 +3318,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-14">
-                        <div class="from" style="left: 200px; top: 280px;">♗</div>
-                        <div class="to" style="left: 200px; top: 280px;">♗</div>
+                        <div class="from" style="left: 240px; top: 120px;">♗</div>
+                        <div class="to" style="left: 240px; top: 120px;">♗</div>
                         <style>@keyframes chess-move-14-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-14 .from {
@@ -3341,9 +3341,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 240px;
+                      background-color: #C5A076;
+                      left: 200px;
+                      top: 160px;
                     }
                   }
                   .chess-move-14 .to {
@@ -3352,8 +3352,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-15">
-                        <div class="from" style="left: 200px; top: 0px;">♝</div>
-                        <div class="to" style="left: 200px; top: 0px;">♝</div>
+                        <div class="from" style="left: 200px; top: 0px;">♜</div>
+                        <div class="to" style="left: 200px; top: 0px;">♜</div>
                         <style>@keyframes chess-move-15-from {
                     100% {
                       opacity: 1;
@@ -3375,9 +3375,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
+                      background-color: #ECDAB9;
+                      left: 160px;
+                      top: 0px;
                     }
                   }
                   .chess-move-15 .to {
@@ -3420,13 +3420,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-17">
-                        <div class="from" style="left: 120px; top: 80px;">♝</div>
-                        <div class="to" style="left: 120px; top: 80px;">♝</div>
+                        <div class="from" style="left: 120px; top: 40px;">♞</div>
+                        <div class="to" style="left: 120px; top: 40px;">♞</div>
                         <style>@keyframes chess-move-17-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-17 .from {
@@ -3444,8 +3444,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 160px;
-                      top: 40px;
+                      left: 200px;
+                      top: 0px;
                     }
                   }
                   .chess-move-17 .to {
@@ -3488,8 +3488,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-19">
-                        <div class="from" style="left: 160px; top: 120px;">♟︎</div>
-                        <div class="to" style="left: 160px; top: 120px;">♟︎</div>
+                        <div class="from" style="left: 240px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 240px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-19-from {
                     100% {
                       opacity: 1;
@@ -3511,9 +3511,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 160px;
+                      background-color: #ECDAB9;
+                      left: 240px;
+                      top: 80px;
                     }
                   }
                   .chess-move-19 .to {
@@ -3522,8 +3522,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-20">
-                        <div class="from" style="left: 200px; top: 200px;">♘</div>
-                        <div class="to" style="left: 200px; top: 200px;">♘</div>
+                        <div class="from" style="left: 200px; top: 280px;">♗</div>
+                        <div class="to" style="left: 200px; top: 280px;">♗</div>
                         <style>@keyframes chess-move-20-from {
                     100% {
                       opacity: 1;
@@ -3545,9 +3545,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 160px;
+                      background-color: #ECDAB9;
+                      left: 160px;
+                      top: 240px;
                     }
                   }
                   .chess-move-20 .to {
@@ -3556,13 +3556,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-21">
-                        <div class="from" style="left: 160px; top: 0px;">♚</div>
-                        <div class="to" style="left: 160px; top: 0px;">♚</div>
+                        <div class="from" style="left: 200px; top: 80px;">♞</div>
+                        <div class="to" style="left: 200px; top: 80px;">♞</div>
                         <style>@keyframes chess-move-21-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-21 .from {
@@ -3580,8 +3580,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 240px;
-                      top: 0px;
+                      left: 120px;
+                      top: 40px;
                     }
                   }
                   .chess-move-21 .to {
@@ -3624,8 +3624,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-23">
-                        <div class="from" style="left: 200px; top: 0px;">♜</div>
-                        <div class="to" style="left: 200px; top: 0px;">♜</div>
+                        <div class="from" style="left: 160px; top: 40px;">♝</div>
+                        <div class="to" style="left: 160px; top: 40px;">♝</div>
                         <style>@keyframes chess-move-23-from {
                     100% {
                       opacity: 1;
@@ -3647,9 +3647,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 0px;
+                      background-color: #C5A076;
+                      left: 200px;
+                      top: 80px;
                     }
                   }
                   .chess-move-23 .to {
@@ -3658,13 +3658,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-24">
-                        <div class="from" style="left: 120px; top: 160px;">♘</div>
-                        <div class="to" style="left: 120px; top: 160px;">♘</div>
+                        <div class="from" style="left: 120px; top: 280px;">♕</div>
+                        <div class="to" style="left: 120px; top: 280px;">♕</div>
                         <style>@keyframes chess-move-24-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-24 .from {
@@ -3682,8 +3682,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 200px;
-                      top: 120px;
+                      left: 80px;
+                      top: 240px;
                     }
                   }
                   .chess-move-24 .to {
@@ -3692,8 +3692,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-25">
-                        <div class="from" style="left: 160px; top: 40px;">♝</div>
-                        <div class="to" style="left: 160px; top: 40px;">♝</div>
+                        <div class="from" style="left: 200px; top: 80px;">♝</div>
+                        <div class="to" style="left: 200px; top: 80px;">♝</div>
                         <style>@keyframes chess-move-25-from {
                     100% {
                       opacity: 1;
@@ -3716,8 +3716,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 200px;
-                      top: 0px;
+                      left: 240px;
+                      top: 40px;
                     }
                   }
                   .chess-move-25 .to {
@@ -3726,13 +3726,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-26">
-                        <div class="from" style="left: 80px; top: 280px;">♗</div>
-                        <div class="to" style="left: 80px; top: 280px;">♗</div>
+                        <div class="from" style="left: 0px; top: 240px;">♙</div>
+                        <div class="to" style="left: 0px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-26-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-26 .from {
@@ -3749,8 +3749,8 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
+                      background-color: #ECDAB9;
+                      left: 0px;
                       top: 160px;
                     }
                   }
@@ -3760,13 +3760,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-27">
-                        <div class="from" style="left: 80px; top: 40px;">♛</div>
-                        <div class="to" style="left: 80px; top: 40px;">♛</div>
+                        <div class="from" style="left: 120px; top: 40px;">♞</div>
+                        <div class="to" style="left: 120px; top: 40px;">♞</div>
                         <style>@keyframes chess-move-27-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-27 .from {
@@ -3784,8 +3784,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 120px;
-                      top: 0px;
+                      left: 200px;
+                      top: 80px;
                     }
                   }
                   .chess-move-27 .to {
@@ -3794,13 +3794,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-28">
-                        <div class="from" style="left: 160px; top: 240px;">♗</div>
-                        <div class="to" style="left: 160px; top: 240px;">♗</div>
+                        <div class="from" style="left: 40px; top: 160px;">♙</div>
+                        <div class="to" style="left: 40px; top: 160px;">♙</div>
                         <style>@keyframes chess-move-28-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-28 .from {
@@ -3818,8 +3818,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 200px;
-                      top: 200px;
+                      left: 40px;
+                      top: 120px;
                     }
                   }
                   .chess-move-28 .to {
@@ -3828,13 +3828,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-29">
-                        <div class="from" style="left: 240px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 240px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 80px; top: 0px;">♝</div>
+                        <div class="to" style="left: 80px; top: 0px;">♝</div>
                         <style>@keyframes chess-move-29-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-29 .from {
@@ -3852,8 +3852,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 240px;
-                      top: 80px;
+                      left: 120px;
+                      top: 40px;
                     }
                   }
                   .chess-move-29 .to {
@@ -3862,8 +3862,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-30">
-                        <div class="from" style="left: 200px; top: 120px;">♘</div>
-                        <div class="to" style="left: 200px; top: 120px;">♘</div>
+                        <div class="from" style="left: 0px; top: 160px;">♙</div>
+                        <div class="to" style="left: 0px; top: 160px;">♙</div>
                         <style>@keyframes chess-move-30-from {
                     100% {
                       opacity: 1;
@@ -3886,8 +3886,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
+                      left: 0px;
+                      top: 120px;
                     }
                   }
                   .chess-move-30 .to {
@@ -3896,8 +3896,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-31">
-                        <div class="from" style="left: 160px; top: 0px;">♜</div>
-                        <div class="to" style="left: 160px; top: 0px;">♜</div>
+                        <div class="from" style="left: 0px; top: 0px;">♜</div>
+                        <div class="to" style="left: 0px; top: 0px;">♜</div>
                         <style>@keyframes chess-move-31-from {
                     100% {
                       opacity: 1;
@@ -3919,9 +3919,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 40px;
+                      background-color: #ECDAB9;
+                      left: 80px;
+                      top: 0px;
                     }
                   }
                   .chess-move-31 .to {
@@ -3930,13 +3930,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-32">
-                        <div class="from" style="left: 200px; top: 280px;">♖</div>
-                        <div class="to" style="left: 200px; top: 280px;">♖</div>
+                        <div class="from" style="left: 0px; top: 120px;">♙</div>
+                        <div class="to" style="left: 0px; top: 120px;">♙</div>
                         <style>@keyframes chess-move-32-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-32 .from {
@@ -3953,9 +3953,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 280px;
+                      background-color: #ECDAB9;
+                      left: 0px;
+                      top: 80px;
                     }
                   }
                   .chess-move-32 .to {
@@ -3964,13 +3964,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-33">
-                        <div class="from" style="left: 200px; top: 0px;">♝</div>
-                        <div class="to" style="left: 200px; top: 0px;">♝</div>
+                        <div class="from" style="left: 40px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 40px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-33-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-33 .from {
@@ -3987,9 +3987,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 240px;
-                      top: 40px;
+                      background-color: #ECDAB9;
+                      left: 0px;
+                      top: 80px;
                     }
                   }
                   .chess-move-33 .to {
@@ -3998,8 +3998,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-34">
-                        <div class="from" style="left: 160px; top: 160px;">♙</div>
-                        <div class="to" style="left: 160px; top: 160px;">♙</div>
+                        <div class="from" style="left: 40px; top: 120px;">♙</div>
+                        <div class="to" style="left: 40px; top: 120px;">♙</div>
                         <style>@keyframes chess-move-34-from {
                     100% {
                       opacity: 1;
@@ -4021,9 +4021,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 120px;
+                      background-color: #ECDAB9;
+                      left: 80px;
+                      top: 80px;
                     }
                   }
                   .chess-move-34 .to {
@@ -4032,13 +4032,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-35">
-                        <div class="from" style="left: 200px; top: 80px;">♞</div>
-                        <div class="to" style="left: 200px; top: 80px;">♞</div>
+                        <div class="from" style="left: 120px; top: 40px;">♝</div>
+                        <div class="to" style="left: 120px; top: 40px;">♝</div>
                         <style>@keyframes chess-move-35-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-35 .from {
@@ -4056,8 +4056,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 160px;
-                      top: 0px;
+                      left: 80px;
+                      top: 80px;
                     }
                   }
                   .chess-move-35 .to {
@@ -4066,13 +4066,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-36">
-                        <div class="from" style="left: 200px; top: 200px;">♗</div>
-                        <div class="to" style="left: 200px; top: 200px;">♗</div>
+                        <div class="from" style="left: 0px; top: 280px;">♖</div>
+                        <div class="to" style="left: 0px; top: 280px;">♖</div>
                         <style>@keyframes chess-move-36-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-36 .from {
@@ -4090,8 +4090,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 240px;
-                      top: 160px;
+                      left: 0px;
+                      top: 80px;
                     }
                   }
                   .chess-move-36 .to {
@@ -4100,13 +4100,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-37">
-                        <div class="from" style="left: 160px; top: 0px;">♞</div>
-                        <div class="to" style="left: 160px; top: 0px;">♞</div>
+                        <div class="from" style="left: 120px; top: 0px;">♛</div>
+                        <div class="to" style="left: 120px; top: 0px;">♛</div>
                         <style>@keyframes chess-move-37-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-37 .from {
@@ -4123,9 +4123,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                       left: 120px;
-                      top: 80px;
+                      top: 40px;
                     }
                   }
                   .chess-move-37 .to {
@@ -4134,13 +4134,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-38">
-                        <div class="from" style="left: 80px; top: 120px;">♙</div>
-                        <div class="to" style="left: 80px; top: 120px;">♙</div>
+                        <div class="from" style="left: 200px; top: 280px;">♖</div>
+                        <div class="to" style="left: 200px; top: 280px;">♖</div>
                         <style>@keyframes chess-move-38-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-38 .from {
@@ -4158,8 +4158,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 120px;
-                      top: 80px;
+                      left: 0px;
+                      top: 280px;
                     }
                   }
                   .chess-move-38 .to {
@@ -4168,8 +4168,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-39">
-                        <div class="from" style="left: 160px; top: 40px;">♜</div>
-                        <div class="to" style="left: 160px; top: 40px;">♜</div>
+                        <div class="from" style="left: 200px; top: 80px;">♞</div>
+                        <div class="to" style="left: 200px; top: 80px;">♞</div>
                         <style>@keyframes chess-move-39-from {
                     100% {
                       opacity: 1;
@@ -4193,7 +4193,7 @@ I was expecting that I could call the base class constructor with the same const
                       opacity: 1;
                       background-color: #ECDAB9;
                       left: 160px;
-                      top: 80px;
+                      top: 160px;
                     }
                   }
                   .chess-move-39 .to {
@@ -4202,8 +4202,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-40">
-                        <div class="from" style="left: 240px; top: 160px;">♗</div>
-                        <div class="to" style="left: 240px; top: 160px;">♗</div>
+                        <div class="from" style="left: 0px; top: 80px;">♖</div>
+                        <div class="to" style="left: 0px; top: 80px;">♖</div>
                         <style>@keyframes chess-move-40-from {
                     100% {
                       opacity: 1;
@@ -4225,9 +4225,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 80px;
+                      background-color: #C5A076;
+                      left: 0px;
+                      top: 40px;
                     }
                   }
                   .chess-move-40 .to {
@@ -4236,8 +4236,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-41">
-                        <div class="from" style="left: 200px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 200px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 120px; top: 40px;">♛</div>
+                        <div class="to" style="left: 120px; top: 40px;">♛</div>
                         <style>@keyframes chess-move-41-from {
                     100% {
                       opacity: 1;
@@ -4259,9 +4259,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 80px;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 0px;
                     }
                   }
                   .chess-move-41 .to {
@@ -4304,8 +4304,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-43">
-                        <div class="from" style="left: 120px; top: 40px;">♞</div>
-                        <div class="to" style="left: 120px; top: 40px;">♞</div>
+                        <div class="from" style="left: 120px; top: 120px;">♟︎</div>
+                        <div class="to" style="left: 120px; top: 120px;">♟︎</div>
                         <style>@keyframes chess-move-43-from {
                     100% {
                       opacity: 1;
@@ -4327,9 +4327,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
-                      top: 0px;
+                      background-color: #ECDAB9;
+                      left: 160px;
+                      top: 160px;
                     }
                   }
                   .chess-move-43 .to {
@@ -4338,13 +4338,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-44">
-                        <div class="from" style="left: 200px; top: 160px;">♗</div>
-                        <div class="to" style="left: 200px; top: 160px;">♗</div>
+                        <div class="from" style="left: 200px; top: 200px;">♘</div>
+                        <div class="to" style="left: 200px; top: 200px;">♘</div>
                         <style>@keyframes chess-move-44-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-44 .from {
@@ -4362,7 +4362,7 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 240px;
+                      left: 160px;
                       top: 120px;
                     }
                   }
@@ -4372,13 +4372,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-45">
-                        <div class="from" style="left: 80px; top: 0px;">♝</div>
-                        <div class="to" style="left: 80px; top: 0px;">♝</div>
+                        <div class="from" style="left: 240px; top: 40px;">♝</div>
+                        <div class="to" style="left: 240px; top: 40px;">♝</div>
                         <style>@keyframes chess-move-45-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-45 .from {
@@ -4395,9 +4395,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 120px;
-                      top: 40px;
+                      background-color: #C5A076;
+                      left: 160px;
+                      top: 120px;
                     }
                   }
                   .chess-move-45 .to {
@@ -4406,8 +4406,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-46">
-                        <div class="from" style="left: 240px; top: 120px;">♗</div>
-                        <div class="to" style="left: 240px; top: 120px;">♗</div>
+                        <div class="from" style="left: 200px; top: 160px;">♗</div>
+                        <div class="to" style="left: 200px; top: 160px;">♗</div>
                         <style>@keyframes chess-move-46-from {
                     100% {
                       opacity: 1;
@@ -4430,8 +4430,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 120px;
-                      top: 0px;
+                      left: 160px;
+                      top: 120px;
                     }
                   }
                   .chess-move-46 .to {
@@ -4440,8 +4440,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-47">
-                        <div class="from" style="left: 0px; top: 0px;">♜</div>
-                        <div class="to" style="left: 0px; top: 0px;">♜</div>
+                        <div class="from" style="left: 200px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 200px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-47-from {
                     100% {
                       opacity: 1;
@@ -4464,8 +4464,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 120px;
-                      top: 0px;
+                      left: 200px;
+                      top: 80px;
                     }
                   }
                   .chess-move-47 .to {
@@ -4474,13 +4474,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-48">
-                        <div class="from" style="left: 160px; top: 160px;">♘</div>
-                        <div class="to" style="left: 160px; top: 160px;">♘</div>
+                        <div class="from" style="left: 160px; top: 120px;">♗</div>
+                        <div class="to" style="left: 160px; top: 120px;">♗</div>
                         <style>@keyframes chess-move-48-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-48 .from {
@@ -4498,8 +4498,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 240px;
-                      top: 120px;
+                      left: 120px;
+                      top: 80px;
                     }
                   }
                   .chess-move-48 .to {
@@ -4508,8 +4508,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-49">
-                        <div class="from" style="left: 120px; top: 0px;">♜</div>
-                        <div class="to" style="left: 120px; top: 0px;">♜</div>
+                        <div class="from" style="left: 200px; top: 0px;">♞</div>
+                        <div class="to" style="left: 200px; top: 0px;">♞</div>
                         <style>@keyframes chess-move-49-from {
                     100% {
                       opacity: 1;
@@ -4532,8 +4532,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 160px;
-                      top: 0px;
+                      left: 120px;
+                      top: 40px;
                     }
                   }
                   .chess-move-49 .to {
@@ -4542,13 +4542,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-50">
-                        <div class="from" style="left: 0px; top: 280px;">♖</div>
-                        <div class="to" style="left: 0px; top: 280px;">♖</div>
+                        <div class="from" style="left: 80px; top: 240px;">♕</div>
+                        <div class="to" style="left: 80px; top: 240px;">♕</div>
                         <style>@keyframes chess-move-50-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-50 .from {
@@ -4565,9 +4565,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 80px;
-                      top: 280px;
+                      background-color: #ECDAB9;
+                      left: 40px;
+                      top: 200px;
                     }
                   }
                   .chess-move-50 .to {
@@ -4576,8 +4576,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-51">
-                        <div class="from" style="left: 280px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 280px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 80px; top: 80px;">♝</div>
+                        <div class="to" style="left: 80px; top: 80px;">♝</div>
                         <style>@keyframes chess-move-51-from {
                     100% {
                       opacity: 1;
@@ -4599,9 +4599,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 280px;
-                      top: 80px;
+                      background-color: #ECDAB9;
+                      left: 120px;
+                      top: 120px;
                     }
                   }
                   .chess-move-51 .to {
@@ -4610,13 +4610,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-52">
-                        <div class="from" style="left: 240px; top: 120px;">♘</div>
-                        <div class="to" style="left: 240px; top: 120px;">♘</div>
+                        <div class="from" style="left: 160px; top: 240px;">♗</div>
+                        <div class="to" style="left: 160px; top: 240px;">♗</div>
                         <style>@keyframes chess-move-52-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-52 .from {
@@ -4634,8 +4634,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 200px;
-                      top: 200px;
+                      left: 80px;
+                      top: 160px;
                     }
                   }
                   .chess-move-52 .to {
@@ -4644,8 +4644,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-53">
-                        <div class="from" style="left: 240px; top: 0px;">♚</div>
-                        <div class="to" style="left: 240px; top: 0px;">♚</div>
+                        <div class="from" style="left: 120px; top: 120px;">♝</div>
+                        <div class="to" style="left: 120px; top: 120px;">♝</div>
                         <style>@keyframes chess-move-53-from {
                     100% {
                       opacity: 1;
@@ -4668,8 +4668,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 280px;
-                      top: 40px;
+                      left: 80px;
+                      top: 160px;
                     }
                   }
                   .chess-move-53 .to {
@@ -4678,13 +4678,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-54">
-                        <div class="from" style="left: 40px; top: 160px;">♙</div>
-                        <div class="to" style="left: 40px; top: 160px;">♙</div>
+                        <div class="from" style="left: 40px; top: 200px;">♕</div>
+                        <div class="to" style="left: 40px; top: 200px;">♕</div>
                         <style>@keyframes chess-move-54-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-54 .from {
@@ -4702,8 +4702,8 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 40px;
-                      top: 120px;
+                      left: 80px;
+                      top: 160px;
                     }
                   }
                   .chess-move-54 .to {
@@ -4712,8 +4712,8 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-55">
-                        <div class="from" style="left: 80px; top: 80px;">♟︎</div>
-                        <div class="to" style="left: 80px; top: 80px;">♟︎</div>
+                        <div class="from" style="left: 120px; top: 40px;">♞</div>
+                        <div class="to" style="left: 120px; top: 40px;">♞</div>
                         <style>@keyframes chess-move-55-from {
                     100% {
                       opacity: 1;
@@ -4735,9 +4735,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                       left: 40px;
-                      top: 120px;
+                      top: 80px;
                     }
                   }
                   .chess-move-55 .to {
@@ -4746,13 +4746,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-56">
-                        <div class="from" style="left: 80px; top: 280px;">♖</div>
-                        <div class="to" style="left: 80px; top: 280px;">♖</div>
+                        <div class="from" style="left: 80px; top: 160px;">♕</div>
+                        <div class="to" style="left: 80px; top: 160px;">♕</div>
                         <style>@keyframes chess-move-56-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-56 .from {
@@ -4769,9 +4769,9 @@ I was expecting that I could call the base class constructor with the same const
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 80px;
-                      top: 40px;
+                      background-color: #ECDAB9;
+                      left: 40px;
+                      top: 120px;
                     }
                   }
                   .chess-move-56 .to {
@@ -4780,13 +4780,13 @@ I was expecting that I could call the base class constructor with the same const
                   }</style>
                     </div>
                     <div class="chess-move chess-move-57">
-                        <div class="from" style="left: 120px; top: 40px;">♝</div>
-                        <div class="to" style="left: 120px; top: 40px;">♝</div>
+                        <div class="from" style="left: 40px; top: 80px;">♞</div>
+                        <div class="to" style="left: 40px; top: 80px;">♞</div>
                         <style>@keyframes chess-move-57-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-57 .from {
@@ -4804,1271 +4804,13 @@ I was expecting that I could call the base class constructor with the same const
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 80px;
-                      top: 80px;
+                      left: 120px;
+                      top: 40px;
                     }
                   }
                   .chess-move-57 .to {
                     animation-name: chess-move-57-to;
                     animation-delay: 37.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-58">
-                        <div class="from" style="left: 120px; top: 280px;">♕</div>
-                        <div class="to" style="left: 120px; top: 280px;">♕</div>
-                        <style>@keyframes chess-move-58-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-58 .from {
-                    animation-name: chess-move-58-from;
-                    animation-delay: 37.8s;
-                  }
-
-                  @keyframes chess-move-58-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 80px;
-                      top: 240px;
-                    }
-                  }
-                  .chess-move-58 .to {
-                    animation-name: chess-move-58-to;
-                    animation-delay: 37.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-59">
-                        <div class="from" style="left: 280px; top: 40px;">♚</div>
-                        <div class="to" style="left: 280px; top: 40px;">♚</div>
-                        <style>@keyframes chess-move-59-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-59 .from {
-                    animation-name: chess-move-59-from;
-                    animation-delay: 38.4s;
-                  }
-
-                  @keyframes chess-move-59-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 280px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-59 .to {
-                    animation-name: chess-move-59-to;
-                    animation-delay: 38.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-60">
-                        <div class="from" style="left: 80px; top: 40px;">♖</div>
-                        <div class="to" style="left: 80px; top: 40px;">♖</div>
-                        <style>@keyframes chess-move-60-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-60 .from {
-                    animation-name: chess-move-60-from;
-                    animation-delay: 39s;
-                  }
-
-                  @keyframes chess-move-60-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 80px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-60 .to {
-                    animation-name: chess-move-60-to;
-                    animation-delay: 39s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-61">
-                        <div class="from" style="left: 40px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 40px; top: 40px;">♟︎</div>
-                        <style>@keyframes chess-move-61-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-61 .from {
-                    animation-name: chess-move-61-from;
-                    animation-delay: 39.6s;
-                  }
-
-                  @keyframes chess-move-61-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 80px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-61 .to {
-                    animation-name: chess-move-61-to;
-                    animation-delay: 39.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-62">
-                        <div class="from" style="left: 80px; top: 240px;">♕</div>
-                        <div class="to" style="left: 80px; top: 240px;">♕</div>
-                        <style>@keyframes chess-move-62-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-62 .from {
-                    animation-name: chess-move-62-from;
-                    animation-delay: 40.199999999999996s;
-                  }
-
-                  @keyframes chess-move-62-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 80px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-62 .to {
-                    animation-name: chess-move-62-to;
-                    animation-delay: 40.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-63">
-                        <div class="from" style="left: 40px; top: 120px;">♟︎</div>
-                        <div class="to" style="left: 40px; top: 120px;">♟︎</div>
-                        <style>@keyframes chess-move-63-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-63 .from {
-                    animation-name: chess-move-63-from;
-                    animation-delay: 40.8s;
-                  }
-
-                  @keyframes chess-move-63-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 40px;
-                      top: 160px;
-                    }
-                  }
-                  .chess-move-63 .to {
-                    animation-name: chess-move-63-to;
-                    animation-delay: 40.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-64">
-                        <div class="from" style="left: 120px; top: 80px;">♙</div>
-                        <div class="to" style="left: 120px; top: 80px;">♙</div>
-                        <style>@keyframes chess-move-64-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-64 .from {
-                    animation-name: chess-move-64-from;
-                    animation-delay: 41.4s;
-                  }
-
-                  @keyframes chess-move-64-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 120px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-64 .to {
-                    animation-name: chess-move-64-to;
-                    animation-delay: 41.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-65">
-                        <div class="from" style="left: 160px; top: 0px;">♜</div>
-                        <div class="to" style="left: 160px; top: 0px;">♜</div>
-                        <style>@keyframes chess-move-65-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-65 .from {
-                    animation-name: chess-move-65-from;
-                    animation-delay: 42s;
-                  }
-
-                  @keyframes chess-move-65-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-65 .to {
-                    animation-name: chess-move-65-to;
-                    animation-delay: 42s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-66">
-                        <div class="from" style="left: 160px; top: 280px;">♖</div>
-                        <div class="to" style="left: 160px; top: 280px;">♖</div>
-                        <style>@keyframes chess-move-66-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-66 .from {
-                    animation-name: chess-move-66-from;
-                    animation-delay: 42.6s;
-                  }
-
-                  @keyframes chess-move-66-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 120px;
-                      top: 280px;
-                    }
-                  }
-                  .chess-move-66 .to {
-                    animation-name: chess-move-66-to;
-                    animation-delay: 42.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-67">
-                        <div class="from" style="left: 240px; top: 80px;">♟︎</div>
-                        <div class="to" style="left: 240px; top: 80px;">♟︎</div>
-                        <style>@keyframes chess-move-67-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-67 .from {
-                    animation-name: chess-move-67-from;
-                    animation-delay: 43.199999999999996s;
-                  }
-
-                  @keyframes chess-move-67-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 240px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-67 .to {
-                    animation-name: chess-move-67-to;
-                    animation-delay: 43.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-68">
-                        <div class="from" style="left: 80px; top: 80px;">♕</div>
-                        <div class="to" style="left: 80px; top: 80px;">♕</div>
-                        <style>@keyframes chess-move-68-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-68 .from {
-                    animation-name: chess-move-68-from;
-                    animation-delay: 43.8s;
-                  }
-
-                  @keyframes chess-move-68-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 80px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-68 .to {
-                    animation-name: chess-move-68-to;
-                    animation-delay: 43.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-69">
-                        <div class="from" style="left: 120px; top: 0px;">♜</div>
-                        <div class="to" style="left: 120px; top: 0px;">♜</div>
-                        <style>@keyframes chess-move-69-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-69 .from {
-                    animation-name: chess-move-69-from;
-                    animation-delay: 44.4s;
-                  }
-
-                  @keyframes chess-move-69-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 0px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-69 .to {
-                    animation-name: chess-move-69-to;
-                    animation-delay: 44.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-70">
-                        <div class="from" style="left: 120px; top: 40px;">♙</div>
-                        <div class="to" style="left: 120px; top: 40px;">♙</div>
-                        <style>@keyframes chess-move-70-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-70 .from {
-                    animation-name: chess-move-70-from;
-                    animation-delay: 45s;
-                  }
-
-                  @keyframes chess-move-70-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-70 .to {
-                    animation-name: chess-move-70-to;
-                    animation-delay: 45s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-71">
-                        <div class="from" style="left: 0px; top: 0px;">♜</div>
-                        <div class="to" style="left: 0px; top: 0px;">♜</div>
-                        <style>@keyframes chess-move-71-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-71 .from {
-                    animation-name: chess-move-71-from;
-                    animation-delay: 45.6s;
-                  }
-
-                  @keyframes chess-move-71-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-71 .to {
-                    animation-name: chess-move-71-to;
-                    animation-delay: 45.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-72">
-                        <div class="from" style="left: 120px; top: 280px;">♖</div>
-                        <div class="to" style="left: 120px; top: 280px;">♖</div>
-                        <style>@keyframes chess-move-72-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-72 .from {
-                    animation-name: chess-move-72-from;
-                    animation-delay: 46.199999999999996s;
-                  }
-
-                  @keyframes chess-move-72-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-72 .to {
-                    animation-name: chess-move-72-to;
-                    animation-delay: 46.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-73">
-                        <div class="from" style="left: 280px; top: 0px;">♚</div>
-                        <div class="to" style="left: 280px; top: 0px;">♚</div>
-                        <style>@keyframes chess-move-73-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-73 .from {
-                    animation-name: chess-move-73-from;
-                    animation-delay: 46.8s;
-                  }
-
-                  @keyframes chess-move-73-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 280px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-73 .to {
-                    animation-name: chess-move-73-to;
-                    animation-delay: 46.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-74">
-                        <div class="from" style="left: 200px; top: 200px;">♘</div>
-                        <div class="to" style="left: 200px; top: 200px;">♘</div>
-                        <style>@keyframes chess-move-74-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-74 .from {
-                    animation-name: chess-move-74-from;
-                    animation-delay: 47.4s;
-                  }
-
-                  @keyframes chess-move-74-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 120px;
-                      top: 160px;
-                    }
-                  }
-                  .chess-move-74 .to {
-                    animation-name: chess-move-74-to;
-                    animation-delay: 47.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-75">
-                        <div class="from" style="left: 280px; top: 40px;">♚</div>
-                        <div class="to" style="left: 280px; top: 40px;">♚</div>
-                        <style>@keyframes chess-move-75-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-75 .from {
-                    animation-name: chess-move-75-from;
-                    animation-delay: 48s;
-                  }
-
-                  @keyframes chess-move-75-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 240px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-75 .to {
-                    animation-name: chess-move-75-to;
-                    animation-delay: 48s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-76">
-                        <div class="from" style="left: 120px; top: 0px;">♖</div>
-                        <div class="to" style="left: 120px; top: 0px;">♖</div>
-                        <style>@keyframes chess-move-76-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-76 .from {
-                    animation-name: chess-move-76-from;
-                    animation-delay: 48.6s;
-                  }
-
-                  @keyframes chess-move-76-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-76 .to {
-                    animation-name: chess-move-76-to;
-                    animation-delay: 48.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-77">
-                        <div class="from" style="left: 240px; top: 80px;">♚</div>
-                        <div class="to" style="left: 240px; top: 80px;">♚</div>
-                        <style>@keyframes chess-move-77-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-77 .from {
-                    animation-name: chess-move-77-from;
-                    animation-delay: 49.199999999999996s;
-                  }
-
-                  @keyframes chess-move-77-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 280px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-77 .to {
-                    animation-name: chess-move-77-to;
-                    animation-delay: 49.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-78">
-                        <div class="from" style="left: 200px; top: 0px;">♖</div>
-                        <div class="to" style="left: 200px; top: 0px;">♖</div>
-                        <style>@keyframes chess-move-78-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-78 .from {
-                    animation-name: chess-move-78-from;
-                    animation-delay: 49.8s;
-                  }
-
-                  @keyframes chess-move-78-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-78 .to {
-                    animation-name: chess-move-78-to;
-                    animation-delay: 49.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-79">
-                        <div class="from" style="left: 240px; top: 40px;">♝</div>
-                        <div class="to" style="left: 240px; top: 40px;">♝</div>
-                        <style>@keyframes chess-move-79-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-79 .from {
-                    animation-name: chess-move-79-from;
-                    animation-delay: 50.4s;
-                  }
-
-                  @keyframes chess-move-79-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-79 .to {
-                    animation-name: chess-move-79-to;
-                    animation-delay: 50.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-80">
-                        <div class="from" style="left: 200px; top: 40px;">♖</div>
-                        <div class="to" style="left: 200px; top: 40px;">♖</div>
-                        <style>@keyframes chess-move-80-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-80 .from {
-                    animation-name: chess-move-80-from;
-                    animation-delay: 51s;
-                  }
-
-                  @keyframes chess-move-80-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
-                      top: 0px;
-                    }
-                  }
-                  .chess-move-80 .to {
-                    animation-name: chess-move-80-to;
-                    animation-delay: 51s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-81">
-                        <div class="from" style="left: 40px; top: 160px;">♟︎</div>
-                        <div class="to" style="left: 40px; top: 160px;">♟︎</div>
-                        <style>@keyframes chess-move-81-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-81 .from {
-                    animation-name: chess-move-81-from;
-                    animation-delay: 51.6s;
-                  }
-
-                  @keyframes chess-move-81-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 40px;
-                      top: 200px;
-                    }
-                  }
-                  .chess-move-81 .to {
-                    animation-name: chess-move-81-to;
-                    animation-delay: 51.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-82">
-                        <div class="from" style="left: 200px; top: 0px;">♖</div>
-                        <div class="to" style="left: 200px; top: 0px;">♖</div>
-                        <style>@keyframes chess-move-82-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-82 .from {
-                    animation-name: chess-move-82-from;
-                    animation-delay: 52.199999999999996s;
-                  }
-
-                  @keyframes chess-move-82-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-82 .to {
-                    animation-name: chess-move-82-to;
-                    animation-delay: 52.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-83">
-                        <div class="from" style="left: 40px; top: 200px;">♟︎</div>
-                        <div class="to" style="left: 40px; top: 200px;">♟︎</div>
-                        <style>@keyframes chess-move-83-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-83 .from {
-                    animation-name: chess-move-83-from;
-                    animation-delay: 52.8s;
-                  }
-
-                  @keyframes chess-move-83-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 40px;
-                      top: 240px;
-                    }
-                  }
-                  .chess-move-83 .to {
-                    animation-name: chess-move-83-to;
-                    animation-delay: 52.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-84">
-                        <div class="from" style="left: 80px; top: 40px;">♕</div>
-                        <div class="to" style="left: 80px; top: 40px;">♕</div>
-                        <style>@keyframes chess-move-84-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-84 .from {
-                    animation-name: chess-move-84-from;
-                    animation-delay: 53.4s;
-                  }
-
-                  @keyframes chess-move-84-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 40px;
-                      top: 40px;
-                    }
-                  }
-                  .chess-move-84 .to {
-                    animation-name: chess-move-84-to;
-                    animation-delay: 53.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-85">
-                        <div class="from" style="left: 280px; top: 120px;">♚</div>
-                        <div class="to" style="left: 280px; top: 120px;">♚</div>
-                        <style>@keyframes chess-move-85-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-85 .from {
-                    animation-name: chess-move-85-from;
-                    animation-delay: 54s;
-                  }
-
-                  @keyframes chess-move-85-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 240px;
-                      top: 160px;
-                    }
-                  }
-                  .chess-move-85 .to {
-                    animation-name: chess-move-85-to;
-                    animation-delay: 54s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-86">
-                        <div class="from" style="left: 40px; top: 40px;">♕</div>
-                        <div class="to" style="left: 40px; top: 40px;">♕</div>
-                        <style>@keyframes chess-move-86-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-86 .from {
-                    animation-name: chess-move-86-from;
-                    animation-delay: 54.6s;
-                  }
-
-                  @keyframes chess-move-86-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 40px;
-                      top: 240px;
-                    }
-                  }
-                  .chess-move-86 .to {
-                    animation-name: chess-move-86-to;
-                    animation-delay: 54.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-87">
-                        <div class="from" style="left: 280px; top: 80px;">♟︎</div>
-                        <div class="to" style="left: 280px; top: 80px;">♟︎</div>
-                        <style>@keyframes chess-move-87-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-87 .from {
-                    animation-name: chess-move-87-from;
-                    animation-delay: 55.199999999999996s;
-                  }
-
-                  @keyframes chess-move-87-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 280px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-87 .to {
-                    animation-name: chess-move-87-to;
-                    animation-delay: 55.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-88">
-                        <div class="from" style="left: 40px; top: 240px;">♕</div>
-                        <div class="to" style="left: 40px; top: 240px;">♕</div>
-                        <style>@keyframes chess-move-88-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-88 .from {
-                    animation-name: chess-move-88-from;
-                    animation-delay: 55.8s;
-                  }
-
-                  @keyframes chess-move-88-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 240px;
-                    }
-                  }
-                  .chess-move-88 .to {
-                    animation-name: chess-move-88-to;
-                    animation-delay: 55.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-89">
-                        <div class="from" style="left: 240px; top: 160px;">♚</div>
-                        <div class="to" style="left: 240px; top: 160px;">♚</div>
-                        <style>@keyframes chess-move-89-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-89 .from {
-                    animation-name: chess-move-89-from;
-                    animation-delay: 56.4s;
-                  }
-
-                  @keyframes chess-move-89-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 280px;
-                      top: 160px;
-                    }
-                  }
-                  .chess-move-89 .to {
-                    animation-name: chess-move-89-to;
-                    animation-delay: 56.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-90">
-                        <div class="from" style="left: 120px; top: 160px;">♘</div>
-                        <div class="to" style="left: 120px; top: 160px;">♘</div>
-                        <style>@keyframes chess-move-90-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-90 .from {
-                    animation-name: chess-move-90-from;
-                    animation-delay: 57s;
-                  }
-
-                  @keyframes chess-move-90-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 160px;
-                      top: 80px;
-                    }
-                  }
-                  .chess-move-90 .to {
-                    animation-name: chess-move-90-to;
-                    animation-delay: 57s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-91">
-                        <div class="from" style="left: 240px; top: 120px;">♟︎</div>
-                        <div class="to" style="left: 240px; top: 120px;">♟︎</div>
-                        <style>@keyframes chess-move-91-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-91 .from {
-                    animation-name: chess-move-91-from;
-                    animation-delay: 57.6s;
-                  }
-
-                  @keyframes chess-move-91-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 240px;
-                      top: 160px;
-                    }
-                  }
-                  .chess-move-91 .to {
-                    animation-name: chess-move-91-to;
-                    animation-delay: 57.6s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-92">
-                        <div class="from" style="left: 240px; top: 240px;">♙</div>
-                        <div class="to" style="left: 240px; top: 240px;">♙</div>
-                        <style>@keyframes chess-move-92-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-92 .from {
-                    animation-name: chess-move-92-from;
-                    animation-delay: 58.199999999999996s;
-                  }
-
-                  @keyframes chess-move-92-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 240px;
-                      top: 200px;
-                    }
-                  }
-                  .chess-move-92 .to {
-                    animation-name: chess-move-92-to;
-                    animation-delay: 58.199999999999996s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-93">
-                        <div class="from" style="left: 280px; top: 160px;">♚</div>
-                        <div class="to" style="left: 280px; top: 160px;">♚</div>
-                        <style>@keyframes chess-move-93-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-93 .from {
-                    animation-name: chess-move-93-from;
-                    animation-delay: 58.8s;
-                  }
-
-                  @keyframes chess-move-93-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 280px;
-                      top: 200px;
-                    }
-                  }
-                  .chess-move-93 .to {
-                    animation-name: chess-move-93-to;
-                    animation-delay: 58.8s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-94">
-                        <div class="from" style="left: 160px; top: 240px;">♕</div>
-                        <div class="to" style="left: 160px; top: 240px;">♕</div>
-                        <style>@keyframes chess-move-94-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #ECDAB9;
-                    }
-                  }
-                  .chess-move-94 .from {
-                    animation-name: chess-move-94-from;
-                    animation-delay: 59.4s;
-                  }
-
-                  @keyframes chess-move-94-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 240px;
-                      top: 240px;
-                    }
-                  }
-                  .chess-move-94 .to {
-                    animation-name: chess-move-94-to;
-                    animation-delay: 59.4s;
                   }</style>
                     </div>
                     <style>.chess-board {
@@ -6102,7 +4844,7 @@ I was expecting that I could call the base class constructor with the same const
               animation-fill-mode: forwards;
               animation-name: chess-clock;
               animation-delay: 3s;
-              animation-duration: 57s;
+              animation-duration: 34.8s;
               animation-timing-function: linear;
             }
             @keyframes chess-clock {
@@ -6138,7 +4880,7 @@ I was expecting that I could call the base class constructor with the same const
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 May 2024, 20:06:12 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 May 2024, 21:06:01 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
