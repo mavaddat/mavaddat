@@ -2246,7 +2246,7 @@ I was expecting that I could call the base class constructor with the same const
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 38k out of 130m users</span>
+                                    <span class="gh">ranked 38k out of 148m users</span>
                                 </div>
                                 <div class="text">Published 244 public repositories</div>
                             </div>
@@ -2538,7 +2538,7 @@ I was expecting that I could call the base class constructor with the same const
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 421k out of 130m users</span>
+                                    <span class="gh">ranked 421k out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 35 users</div>
                             </div>
@@ -2576,7 +2576,7 @@ I was expecting that I could call the base class constructor with the same const
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 250k out of 224m repositories</span>
+                                    <span class="gh">ranked 250k out of 223m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 167 stars</div>
                             </div>
@@ -2622,7 +2622,7 @@ I was expecting that I could call the base class constructor with the same const
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 809k out of 224m repositories</span>
+                                    <span class="gh">ranked 810k out of 223m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 15 times</div>
                             </div>
@@ -5355,7 +5355,7 @@ I was expecting that I could call the base class constructor with the same const
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Nov 2024, 07:06:01 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2024, 08:07:01 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
