@@ -1004,7 +1004,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tesseract-ocr/tesstrain</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Train Tesseract LSTM with make</div>
@@ -1057,7 +1057,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tesseract-ocr/tessdata</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Trained models with fast variant of the "best" LSTM models + legacy models</div>
@@ -1104,7 +1104,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sicos1977/TesseractOCR</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A .net library to work with Google's Tesseract</div>
@@ -2144,7 +2144,7 @@ I was expecting that I could call the base class constructor with the same const
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Oct 2025, 02:07:14 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2025, 03:07:17 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
