@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pujux" class="rich-diff-level-one">
-    <img src="github-readme-stats-two-iota-59.vercel.app/api?username=pujux&title_color=333&text_color=777&a=3" alt="Julian's Stats" >
+    <img src="./profile/stats.svg" alt="Julian's Stats" >
   </a>
 </p>
 
