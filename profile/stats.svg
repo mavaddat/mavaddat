@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Julian Pufler's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 342, Total Commits  (last year) : 67, Total PRs: 128, Total Issues: 36, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 342, Total Commits  (last year) : 67, Total PRs: 128, Total Issues: 36, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -202,7 +202,7 @@
         x="199.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >3</text>
     </g>
   </g>
     </svg>
