@@ -730,7 +730,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qpdf/qpdf</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">qpdf: A content-preserving PDF document transformer</div>
@@ -1908,7 +1908,7 @@ I was expecting that I could call the base class constructor with the same const
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Apr 2026, 18:39:36 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2026, 20:10:11 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
