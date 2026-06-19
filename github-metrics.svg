@@ -830,7 +830,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emako/wpfui.violeta</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WPF UI Violeta is based on WPF UI, and provides the Fluent experience in your known and loved WPF framework.</div>
@@ -883,7 +883,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>macgile/DataGridFilter</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WPF Filterable Datagrid, multi language</div>
@@ -1988,7 +1988,7 @@ I was expecting that I could call the base class constructor with the same const
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jun 2026, 22:50:00 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jun 2026, 01:02:23 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
