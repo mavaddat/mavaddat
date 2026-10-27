@@ -1000,7 +1000,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IronmarkAuthoring/cgm2svg</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CGM to SVG converter</div>
@@ -1106,7 +1106,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaronkazah/copy-reference-jetbrains</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Jetbrains "Copy reference' functionality implemented for VSCode</div>
@@ -2153,7 +2153,7 @@ I was expecting that I could call the base class constructor with the same const
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2026, 12:55:28 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2026, 16:37:49 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
