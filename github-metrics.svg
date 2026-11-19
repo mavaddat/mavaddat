@@ -1129,7 +1129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>official-stockfish/Stockfish</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A free and strong UCI chess engine</div>
@@ -2183,7 +2183,7 @@ I was expecting that I could call the base class constructor with the same const
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Nov 2026, 18:59:04 (timezone America/Vancouver) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 19 Nov 2026, 03:27:09 (timezone America/Vancouver) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
